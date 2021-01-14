@@ -1,0 +1,1006 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-72928265-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-72928265-3');
+</script>
+	
+	<meta charset="utf-8" content="width=device-width, initial-scale=1">
+	<title>Visconde Apartments, Porto</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="Two Luxurious Apartments In Downtown Porto, Portugal. Book Now Visconde Mezzanine or Visconde Loft!">
+	<meta name="author" content="">
+	
+	<link rel="shortcut icon" href="images/favicon2.ico">
+    
+	<!-- CSS -->
+	<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+	<link href="css/flexslider.css" rel="stylesheet" type="text/css" />
+	<link href="css/prettyPhoto.css" rel="stylesheet" type="text/css" />
+	<link href="css/animate.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="css/owl.carousel.css" rel="stylesheet">
+	<link href="css/style.css" rel="stylesheet" type="text/css" />
+    
+	<!--
+		LANG SCRIPTS
+	-->
+	<script src="http://code.jquery.com/jquery-1.12.4.min.js"
+  integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ="
+  crossorigin="anonymous"></script>
+	<!--<script src="js/lang.js"></script>-->
+
+	<!-- FONTS -->
+	<link href='http://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500italic,700,500,700italic,900,900italic' rel='stylesheet' type='text/css'>
+	<link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">	
+	<link rel="stylesheet" href="css/font-awesome.min.css">
+
+    
+	<!-- SCRIPTS -->
+	<!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <!--[if IE]><html class="ie" lang="en"> <![endif]-->
+
+
+	<script src="js/jquery.min.js" type="text/javascript"></script>
+	<script src="js/bootstrap.min.js" type="text/javascript"></script>
+	<script src="js/jquery.prettyPhoto.js" type="text/javascript"></script>
+	<script src="js/jquery.nicescroll.min.js" type="text/javascript"></script>
+	<script src="js/superfish.min.js" type="text/javascript"></script>
+	<script src="js/jquery.flexslider-min.js" type="text/javascript"></script>
+	<script src="js/owl.carousel.js" type="text/javascript"></script>
+	<script src="js/animate.js" type="text/javascript"></script>
+	<script src="js/jquery.BlackAndWhite.js"></script>
+	<script src="js/myscript.js" type="text/javascript"></script>
+	<script src="js/sendmail.js" type="text/javascript"></script>
+
+
+	<script>
+		$(function(){
+			if ($(window).width() >= 768) { 
+	 	   	  $("a[rel^='prettyPhoto']").prettyPhoto(); 
+
+			} else if ($(window).width() < 768) {
+				$("#gallery_mobile").click(function(event){
+        		event.preventDefault();
+    			});
+
+    			//GalleryTitleID.setAttribute("style", "font-size:20px;");
+
+			//document.getElementById("item").style.pointer = "pointer";
+			}
+
+		})
+	
+		$(window).load(function(){
+			var langCode = '';
+			var myLink = document.getElementById('pt');
+			var myLink2 = document.getElementById('es');
+			var myLink3 = document.getElementById('en');
+
+			var text = window.location.hash.substring(1);
+			langCode = text;			
+
+			var translate = function (jsdata)
+			{	
+				$("[tkey]").each (function (index)
+				{
+					var strTr = jsdata [$(this).attr ('tkey')];
+				    $(this).html (strTr);
+				    //console.log("strtr", strTr);
+				});
+			}
+			if (langCode !== null) {
+				if (langCode == 'pt'){
+					$.getJSON('js/lang/pt.json', translate);				
+				} else if (langCode == 'es'){
+					$.getJSON('js/lang/es.json', translate);	
+				} else if (langCode == 'en'){
+					$.getJSON('js/lang/en.json', translate);	
+				} else {
+					$.getJSON('js/lang/en.json', translate);	
+				}
+			} 
+			else {
+				alert("langcode is null");
+				$.getJSON('js/lang/en.json', translate);	
+			}
+
+			myLink.onclick = function(){
+				langCode = 'pt';
+				$.getJSON('js/lang/pt.json', translate);
+			}
+
+			myLink2.onclick = function(){
+				langCode = 'es';
+				$.getJSON('js/lang/es.json', translate);
+			}
+
+			myLink3.onclick = function(){
+				langCode = 'en';
+				$.getJSON('js/lang/en.json', translate);
+			}
+
+
+			$('#a1').click(function(){
+				//MezzFunction();
+				window.location.href = 'viscondeMezzanine.html' + '#' + langCode;
+				return false;
+			});
+			$('#a2').click(function(){
+				//LoftFunction();
+				window.location.href = 'viscondeLoft.html' + '#' + langCode;
+				return false;
+			});
+			$('#a3').click(function(){
+				//LoftFunction();
+				window.location.href = 'index.html' + '#' + langCode;
+				return false;
+			});			
+		});
+
+	</script>
+
+
+		<style type="text/css">
+					/* The Modal (background) */
+		.modal {
+		    display: none; /* Hidden by default */
+		    position: fixed; /* Stay in place */
+		    z-index: 1; /* Sit on top */
+		    padding-top: 100px; /* Location of the box */
+		    left: 0;
+		    top: 0;
+		    width: 100%; /* Full width */
+		    height: 100%; /* Full height */
+		    overflow: auto; /* Enable scroll if needed */
+		    background-color: rgb(0,0,0); /* Fallback color */
+		    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+		}
+
+		/* Modal Content */
+		.modal-content {
+		    background-color: #fefefe;
+		    margin: auto;
+		    padding: 20px;
+		    border: 1px solid #888;
+		    width: 80%;
+		}
+
+		/* The Close Button */
+		.close {
+		    color: #aaaaaa;
+		    float: right;
+		    font-size: 28px;
+		    font-weight: bold;
+		}
+
+		.close:hover,
+		.close:focus {
+		    color: #000;
+		    text-decoration: none;
+		    cursor: pointer;
+		}
+		</style>
+	
+</head>
+<body>
+
+<!-- PRELOADER -->
+<img id="preloader" src="images/loader4.gif" alt="" />
+<!-- //PRELOADER -->
+<div class="preloader_hide">
+
+	<!-- PAGE -->
+	<div id="page">
+	
+		<!-- HEADER -->
+		<header>
+			
+			<!-- MENU BLOCK -->
+			<div class="menu_block">
+			
+				<!-- CONTAINER -->
+				<div class="container clearfix">
+					
+					<!-- LOGO 
+					<div class="logo pull-left">
+						<a href="index.html" ><span class="b1">w</span><span class="b2">h</span><span class="b3">i</span><span class="b4">t</span><span class="b5">e</span></a>
+					</div>//LOGO -->
+					<!--new_LOGO class="navbar-left"-->
+					<div class="logo pull-left">
+						<a href="index.html" class="navbar-brand navbar-left"><img src="images/_logo/VA1.png" alt="Visconde Apartments"></a>
+					</div>
+					
+					<!-- MENU -->
+					<div class="pull-right">
+						<nav class="navmenu center">
+							<ul>
+								<li class="first active scroll_btn" id="a3"><a href="#home" tkey="menu1"></a></li>
+								<li class="scroll_btn"><a href="#about" tkey="menu2"></a></li>
+								<li class="scroll_btn"><a href="#projects" tkey="menu3"></a></li>
+								<li class="scroll_btn"><a href="#team" tkey="menu4"></a></li>
+								<li class="scroll_btn" id="a1"><a href="javascript:void(0);" tkey="menu5"></a></li>
+								<li class="scroll_btn last" id="a2"><a href="javascript:void(0);" tkey="menu6"></a></li>
+								<li class="sub-menu">
+									<a href="javascript:void(0);" tkey="menu7"></a>
+									<ul>
+										<li class="first active"><a href="#" id="en"><img src="images/flags/UK.png" class="menu_lang"></a></li>
+										<li><a href="#" id="pt"><img src="images/flags/Portugal.png" class="menu_lang"></a></li>
+										<li><a href="#" id="es"><img src="images/flags/Spain.png" class="menu_lang"></a></li>
+									</ul>
+								</li>
+							</ul>
+						</nav>
+					</div><!-- //MENU -->
+				</div><!-- //MENU BLOCK -->
+			</div><!-- //CONTAINER -->
+		</header><!-- //HEADER -->
+		
+		
+		<!-- HOME -->
+		<section id="home" class="padbot0">
+				
+			<!-- TOP SLIDER -->
+			<div class="flexslider top_slider">
+				<ul class="slides">
+					<li class="slide1">
+						<div class="flex_caption1">
+							<p class="title1 captionDelay2 FromTop" tkey="slide1Caption1" ></p>
+							<p class="title2 captionDelay4 FromTop" tkey="slide1Caption2"></p>
+							<p class="title3 captionDelay6 FromTop" tkey="slide1Caption3"></p>
+							<p class="title4 captionDelay7 FromBottom" tkey="slide1Caption4"></p>
+						</div>
+					<li class="slide2">
+						<div class="flex_caption1">
+							<p class="title1 captionDelay6 FromLeft" tkey="slide2Caption1"></p>
+							<p class="title2 captionDelay4 FromLeft" tkey="slide2Caption2"></p>
+							<p class="title3 captionDelay2 FromLeft" tkey="slide2Caption3"></p>
+							<p class="title4 captionDelay7 FromLeft" tkey="slide2Caption4"></p>
+						</div>
+					</li>
+					<li class="slide3">
+						<div class="flex_caption1">
+							<p class="title1 captionDelay2 FromTop" tkey="slide3Caption1"></p>
+							<p class="title2 captionDelay4 FromTop" tkey="slide3Caption2"></p>
+							<p class="title3 captionDelay6 FromTop" tkey="slide3Caption3"></p>
+							<p class="title4 captionDelay7 FromBottom" tkey="slide3Caption4"></p>
+						</div>
+					</li>
+					<li class="slide4">
+						<div class="flex_caption1">
+							<p class="title1 captionDelay2 FromTop" tkey="slide4Caption1"></p>
+							<p class="title2 captionDelay4 FromTop" tkey="slide4Caption2"></p>
+							<p class="title3 captionDelay6 FromTop" tkey="slide4Caption3"></p>
+							<p class="title4 captionDelay7 FromBottom" tkey="slide4Caption4"></p>
+						</div>
+					</li>
+				</ul>
+			</div>
+			<div id="carousel">
+				<ul class="slides">
+					<li><img src="images/slider/slider1.jpg" alt="" /></li>
+					<li><img src="images/slider/slider2.jpg" alt="" /></li>
+					<li><img src="images/slider/slider3.jpg" alt="" /></li>
+					<li><img src="images/slider/slider4.jpg" alt="" /></li>
+				</ul>
+			</div><!-- //TOP SLIDER -->
+		</section><!-- //HOME -->
+		
+		
+		<!-- ABOUT -->
+		<section id="about">
+			
+			<!-- SERVICES -->
+			<div class="services_block padbot40" data-appear-top-offset="-200" data-animated="fadeInUp">
+				
+				<!-- CONTAINER -->
+				<div class="container">
+				
+					<!-- ROW -->
+					<div class="row">
+						<div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 col-ss-12 margbot30">
+							<a class="services_item" href="javascript:void(0);" >
+								<p><b tkey="service_item1_1"></b></p>
+								<span tkey="service_item1_2"></span>
+							</a>
+						</div>
+						<div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 col-ss-12 margbot30">
+							<a class="services_item" href="javascript:void(0);" >
+								<p><b tkey="service_item2_1"></b></p>
+								<span tkey="service_item2_2"></span>
+							</a>
+						</div>
+						<div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 col-ss-12 margbot30">
+							<a class="services_item" href="javascript:void(0);" >
+								<p><b tkey="service_item3_1"></b></p>
+								<span tkey="service_item3_2"></span>
+							</a>
+						</div>
+					</div><!-- //ROW -->
+				</div><!-- //CONTAINER -->
+			</div><!-- //SERVICES -->
+			
+			<!-- CLEAN CODE -->
+			<div class="cleancode_block">
+				
+				<!-- CONTAINER -->
+				<div class="container" data-appear-top-offset="-200" data-animated="fadeInUp">
+					
+					<!-- CUSTOM TAB -->
+					<div id="myTabContent" class="tab-content">
+						<div class="tab-pane fade in active clearfix" id="tab1" style="padding: 20px;">
+							<p class="title" tkey="customtab1_1"></p>
+							<span tkey="customtab1_2"></span>
+						</div>
+						<div class="tab-pane fade clearfix" id="tab2" style="padding: 20px;">
+							<p class="title" tkey="customtab2_1"></p>
+							<span tkey="customtab2_2"></span>
+						</div>
+						<div class="tab-pane fade clearfix" id="tab3" style="padding: 20px;">
+							<p class="title" tkey="customtab3_1"></p>
+							<span tkey="customtab3_2"></span>
+						</div>
+						<div class="tab-pane fade clearfix" id="tab4" style="padding: 20px;">
+							<p class="title" tkey="customtab4_1"></p>
+							<span tkey="customtab4_2"></span>
+						</div>
+						<div class="tab-pane fade clearfix" id="tab5" style="padding: 20px;">
+							<p class="title" tkey="customtab5_1"></p>
+							<span tkey="customtab5_2"></span>
+						</div>
+						<div class="tab-pane fade clearfix" id="tab6" style="padding: 20px;">
+							<p class="title" tkey="customtab6_1"></p>
+							<span tkey="customtab6_2"></span>
+						</div>
+					</div>
+					<ul id="myTab" class="nav nav-tabs">
+						<li class="active"><a class="i1" href="#tab1" data-toggle="tab" ><i></i><span tkey="customtab1_1"></span></a></li>
+						<li><a class="i2" href="#tab2" data-toggle="tab" ><i></i><span tkey="customtab2_1"></span></a></li>
+						<li><a class="i3" href="#tab3" data-toggle="tab" ><i></i><span tkey="customtab3_1"></span></a></li>
+						<li><a class="i4" href="#tab4" data-toggle="tab" ><i></i><span tkey="customtab4_1"></span></a></li>
+						<li><a class="i5" href="#tab5" data-toggle="tab" ><i></i><span tkey="customtab5_1"></span></a></li>
+					</ul><!-- CASTOM TAB -->
+				</div><!-- //CONTAINER -->
+			</div><!-- //CLEAN CODE -->
+			
+			<!-- MULTI PURPOSE -->
+			<div class="purpose_block">
+				
+				<!-- CONTAINER -->
+				<div class="container">
+					
+					<!-- ROW -->
+					<div class="row">
+					
+						<div class="col-lg-12 col-md-12 col-sm-12" data-appear-top-offset="-200" data-animated="fadeInLeft">
+							<h2 style="text-align: center;" tkey="aboutTitle"></h2>
+							<p tkey="aboutMain1">
+							</p>
+							<p tkey="aboutMain2"></p>
+							<a class="btn btn-active" id="modal" tkey="aboutBtn1"></a>
+							<a class="btn call_airbnb_mez" href="javascript:void(0);"><span tkey="aboutBtn2"></span></a>
+							<a class="btn call_booking" href="javascript:void(0);"><span tkey="aboutBtn3"></span></a>
+						</div>
+						
+						<!-- //ROW -->
+				</div><!-- //CONTAINER -->
+			</div><!-- //MULTI PURPOSE -->
+		</div>
+		</section><!-- //ABOUT -->
+
+		<!--MODAL -->
+		<div id="modal01" class="modal">
+			<!--content-->
+			<div class="modal-content">
+				<span class="close">&times;</span>
+				<form id="comment_form" class="row" role="form">
+						<div class="col-lg-4 col-md-4" style="padding-top: 30px">
+							<input type="text" name="cf-name" id="cf-name" placeholder="Your Name *" />
+							<input type="text" name="cf-email" id="cf-email" placeholder="Your E-mail *" />
+							<div class="comment_note" tkey="ContactNote"></div>
+							<div class="success colored-textSuccess" tkey="ContactSuccess"></div>
+							<div class="error colored-textError" tkey="ContactError"></div>
+						</div>
+						<div class="col-lg-8 col-md-8">
+							<textarea name="cf-message" id="cf-message" placeholder="Your Message *"></textarea>
+							<button class="contact_btn pull-right" id="cf-submit" name="submit" value="Send Message" tkey="ContactButton"></button>
+						</div>
+					</form>
+			</div>
+		</div>
+		<!--END MODAL-->
+		
+		<!-- PROJECTS -->
+		<section id="projects" class="padbot20">
+		
+			<!-- CONTAINER -->
+			<div class="container">
+				<h2 id="GalleryTitleID"><b tkey="GalleryTitle"></b></h2>
+
+			</div><!-- //CONTAINER -->
+			</br>
+			</br>
+				
+			<div class="projects-wrapper" data-appear-top-offset="-200" data-animated="fadeInUp">
+				<!-- PROJECTS SLIDER -->
+				<div class="owl-demo owl-carousel projects_slider" id="gallery_mobile">
+					
+					<!-- work1 -->
+					<div class="item" id="item">
+						<div class="work_item">
+							<div class="work_img">
+								<a href="images/works/1.jpg" rel="prettyPhoto[portfolio1]"><img src="images/works/1.jpg" alt="" />
+								</a>
+							</div>
+						</div>
+					</div><!-- //work1 -->
+					
+					<!-- work2 -->
+					<div class="item" id="item">
+						<div class="work_item">
+							<div class="work_img">
+								<a href="images/works/2.jpg" rel="prettyPhoto[portfolio1]"><img src="images/works/2.jpg" alt="" />
+								</a>
+							</div>
+						</div>
+					</div><!-- //work2 -->
+					
+					<!-- work3 -->
+					<div class="item" id="item">
+						<div class="work_item">
+							<div class="work_img">
+								<a href="images/works/3.jpg" rel="prettyPhoto[portfolio1]" ><img src="images/works/3.jpg" alt="" />
+								</a>
+							</div>
+						</div>
+					</div><!-- //work3 -->
+					
+					<!-- work4 -->
+					<div class="item" id="item">
+						<div class="work_item">
+							<div class="work_img">
+								<a href="images/works/4.jpg" rel="prettyPhoto[portfolio1]" ><img src="images/works/4.jpg" alt="" />
+								</a>
+							</div>
+						</div>
+					</div><!-- //work4 -->
+					
+					<!-- work5 -->
+					<div class="item" id="item">
+						<div class="work_item">
+							<div class="work_img">
+								<a href="images/works/5.jpg" rel="prettyPhoto[portfolio1]" ><img src="images/works/5.jpg" alt="" />
+								</a>
+							</div>
+						</div>
+					</div><!-- //work5 -->
+					
+					<!-- work6 -->
+					<div class="item" id="item">
+						<div class="work_item">
+							<div class="work_img">
+								<a href="images/works/6.jpg" rel="prettyPhoto[portfolio1]" ><img src="images/works/6.jpg" alt="" />
+								</a>
+							</div>
+						</div>
+					</div><!-- //work6 -->
+					
+					<!-- work7 -->
+					<div class="item" id="item">
+						<div class="work_item">
+							<div class="work_img">
+								<a href="images/works/7.jpg" rel="prettyPhoto[portfolio1]" ><img src="images/works/7.jpg" alt="" />
+								</a>
+							</div>
+						</div>
+					</div><!-- //work7 -->
+					
+					<!-- work8 -->
+					<div class="item" id="item">
+						<div class="work_item">
+							<div class="work_img">
+								<a href="images/works/8.jpg" rel="prettyPhoto[portfolio1]" ><img src="images/works/8.jpg" alt="" />
+								</a>
+							</div>
+						</div>
+					</div><!-- //work8 -->
+					
+					<!-- work9 -->
+					<div class="item" id="item">
+						<div class="work_item">
+							<div class="work_img">
+								<a href="images/works/9.jpg" rel="prettyPhoto[portfolio1]" ><img src="images/works/9.jpg" alt="" />
+								</a>
+							</div>
+						</div>
+					</div><!-- //work9 -->
+					
+					<!-- work10 -->
+					<div class="item" id="item">
+						<div class="work_item">
+							<div class="work_img">
+								<a href="images/works/10.jpg" rel="prettyPhoto[portfolio1]" ><img src="images/works/10.jpg" alt="" />
+								</a>
+							</div>
+						</div>
+					</div><!-- //work10 -->
+					
+					<!-- work11 -->
+					<div class="item" id="item">
+						<div class="work_item">
+							<div class="work_img">
+								<a href="images/works/11.jpg" rel="prettyPhoto[portfolio1]" ><img src="images/works/11.jpg" alt="" />
+								</a>
+							</div>
+						</div>
+					</div><!-- //work11 -->
+					<!-- work12 -->
+					<div class="item" id="item">
+						<div class="work_item">
+							<div class="work_img">
+								<a href="images/works/12.jpg" rel="prettyPhoto[portfolio1]" ><img src="images/works/12.jpg" alt="" />
+								</a>
+							</div>
+						</div>
+					</div><!-- //work12 -->
+					<!-- work13 -->
+					<div class="item" id="item">
+						<div class="work_item">
+							<div class="work_img">
+								<a href="images/works/13.jpg" rel="prettyPhoto[portfolio1]" ><img src="images/works/13.jpg" alt="" />
+								</a>
+							</div>
+						</div>
+					</div><!-- //work13 -->
+					<!-- work14 -->
+					<div class="item" id="item">
+						<div class="work_item">
+							<div class="work_img">
+								<a href="images/works/14.jpg" rel="prettyPhoto[portfolio1]" ><img src="images/works/14.jpg" alt="" />
+								</a>
+							</div>
+						</div>
+					</div><!-- //work14 -->
+					<!-- work15 -->
+					<div class="item" id="item">
+						<div class="work_item">
+							<div class="work_img">
+								<a href="images/works/15.jpg" rel="prettyPhoto[portfolio1]" ><img src="images/works/15.jpg" alt="" />
+								</a>
+							</div>
+						</div>
+					</div><!-- //work15 -->
+					<!-- work16 -->
+					<div class="item" id="item">
+						<div class="work_item">
+							<div class="work_img">
+								<a href="images/works/16.jpg" rel="prettyPhoto[portfolio1]" ><img src="images/works/16.jpg" alt="" />
+								</a>
+							</div>
+						</div>
+					</div><!-- //work16 -->
+					<!-- work17 -->
+					<div class="item" id="item">
+						<div class="work_item">
+							<div class="work_img">
+								<a href="images/works/17.jpg" rel="prettyPhoto[portfolio1]" ><img src="images/works/17.jpg" alt="" />
+								</a>
+							</div>
+						</div>
+					</div><!-- //work17 -->
+					<!-- work18 -->
+					<div class="item" id="item">
+						<div class="work_item">
+							<div class="work_img">
+								<a href="images/works/18.jpg" rel="prettyPhoto[portfolio1]" ><img src="images/works/18.jpg" alt="" />
+								</a>
+							</div>
+						</div>
+					</div><!-- //work18 -->
+				<!-- work19 -->
+					<div class="item" id="item">
+						<div class="work_item">
+							<div class="work_img">
+								<a href="images/works/19.jpg" rel="prettyPhoto[portfolio1]" ><img src="images/works/19.jpg" alt="" />
+								</a>
+							</div>
+						</div>
+					</div><!-- //work19 -->
+					<!-- work20 -->
+					<div class="item" id="item">
+						<div class="work_item">
+							<div class="work_img">
+								<a href="images/works/20.jpg" rel="prettyPhoto[portfolio1]" ><img src="images/works/20.jpg" alt="" />
+								</a>
+							</div>
+						</div>
+					</div><!-- //work20 -->
+
+				</div><!-- //PROJECTS SLIDER -->
+			</div>
+	</section><!--END PROJECTS-->
+		
+		
+		<!-- TEAM -->
+		<section id="team">
+		
+			<!-- CONTAINER -->
+			<div class="container">
+				<h2><b tkey="NearbyTitle"></b></h2>
+			</br>
+			</br>				
+				
+				<!-- ROW -->
+				<div class="row" data-appear-top-offset="-200" data-animated="fadeInUp">
+						
+					<!-- TEAM SLIDER -->
+					<div class="owl-demo owl-carousel team_slider">
+				
+						<!-- crewman1 -->
+						<div class="item">
+							<div class="crewman_item">
+								<div class="crewman">
+									<img src="images/team/1.jpg" alt="" />
+								</div>
+								<div class="crewman_descr center">
+									<div class="crewman_descr_cont">
+										<p tkey="NearbyPlace1"></p>
+										<span tkey="NearbyPlaceDis1"></span>
+									</div>
+								</div>
+								<div class="crewman_social">
+									<a href="javascript:callGoogleMaps('F2tLbguQB4u');" ><i class="fa fa-map-marker"></i></a>
+									<a href="javascript:callGoogleSearch('search?q=jardim+de+sao+lazaro');" ><i class="fa fa-search"></i></a>
+								</div>
+							</div>
+						</div><!-- crewman1 -->
+						
+						<!-- crewman2 -->
+						<div class="item">
+							<div class="crewman_item">
+								<div class="crewman">
+									<img src="images/team/2.jpg" alt="" />
+								</div>
+								<div class="crewman_descr center">
+									<div class="crewman_descr_cont">
+										<p tkey="NearbyPlace2"></p>
+										<span tkey="NearbyPlaceDis2"></span>
+									</div>
+								</div>
+								<div class="crewman_social">
+									<a href="javascript:callGoogleMaps('NiQ3hh9evqk');" ><i class="fa fa-map-marker"></i></a>
+									<a href="javascript:callGoogleSearch('search?q=coliseu+do+porto');"><i class="fa fa-search"></i></a>
+									<a href="javascript:callFacebook('ColiseuPorto');" ><i class="fa fa-facebook-square"></i></a>
+								</div>
+							</div>
+						</div><!-- crewman1 -->
+						
+						<!-- crewman3 -->
+						<div class="item">
+							<div class="crewman_item">
+								<div class="crewman">
+									<img src="images/team/3.jpg" alt="" />
+								</div>
+								<div class="crewman_descr center">
+									<div class="crewman_descr_cont">
+										<p tkey="NearbyPlace3"></p>
+										<span tkey="NearbyPlaceDis3"></span>
+									</div>
+								</div>
+								<div class="crewman_social">
+									<a href="javascript:callGoogleMaps('mJ9rX7QX9pr');" ><i class="fa fa-map-marker"></i></a>
+									<a href="javascript:callGoogleSearch('search?q=cafe+majestic+porto');" ><i class="fa fa-search"></i></a>
+									<a href="javascript:callFacebook('MajesticCafePorto');" ><i class="fa fa-facebook-square"></i></a>
+								</div>
+							</div>
+						</div><!-- crewman3 -->
+						
+						<!-- crewman4 -->
+						<div class="item">
+							<div class="crewman_item">
+								<div class="crewman">
+									<img src="images/team/4.jpg" alt="" />
+								</div>
+								<div class="crewman_descr center">
+									<div class="crewman_descr_cont">
+										<p tkey="NearbyPlace4"></p>
+										<span tkey="NearbyPlaceDis4"></span>
+									</div>
+								</div>
+								<div class="crewman_social">
+									<a href="javascript:callGoogleMaps('w7Q6Zgc2PD72');" ><i class="fa fa-map-marker"></i></a>
+									<a href="javascript:callGoogleSearch('search?q=igreja+santo+ildefonso');" ><i class="fa fa-search"></i></a>
+								</div>
+							</div>
+						</div><!-- crewman4 -->
+						
+						<!-- crewman5 -->
+						<div class="item">
+							<div class="crewman_item">
+								<div class="crewman">
+									<img src="images/team/5.jpg" alt="" />
+								</div>
+								<div class="crewman_descr center">
+									<div class="crewman_descr_cont">
+										<p tkey="NearbyPlace5"></p>
+										<span tkey="NearbyPlaceDis5"></span>
+									</div>
+								</div>
+								<div class="crewman_social">
+									<a href="javascript:callGoogleMaps('gMzRUWxCYpj');" ><i class="fa fa-map-marker"></i></a>
+									<a href="javascript:callGoogleSearch('search?q=mercado+bolhao');" ><i class="fa fa-search"></i></a>
+									<a href="javascript:callFacebook('Mercado-do-Bolhão-309625579164156');" ><i class="fa fa-facebook-square"></i></a>
+								</div>
+							</div>
+						</div><!-- crewman5 -->
+						
+						<!-- crewman6 -->
+						<div class="item">
+							<div class="crewman_item">
+								<div class="crewman">
+									<img src="images/team/6.jpg" alt="" />
+								</div>
+								<div class="crewman_descr center">
+									<div class="crewman_descr_cont">
+										<p tkey="NearbyPlace6"></p>
+										<span tkey="NearbyPlaceDis6"></span>
+									</div>
+								</div>
+								<div class="crewman_social">
+									<a href="javascript:callGoogleMaps('8Xegh4diKgD2');" ><i class="fa fa-map-marker"></i></a>
+									<a href="javascript:callGoogleSearch('search?q=via+catarina+shopping');" ><i class="fa fa-search"></i></a>
+									<a href="javascript:callFacebook('viacatarinashopping');" ><i class="fa fa-facebook-square"></i></a>
+								</div>
+							</div>
+						</div><!-- crewman6 -->
+						
+						<!-- crewman7 -->
+						<div class="item">
+							<div class="crewman_item">
+								<div class="crewman">
+									<img src="images/team/7.jpg" alt="" />
+								</div>
+								<div class="crewman_descr center">
+									<div class="crewman_descr_cont">
+										<p tkey="NearbyPlace7"></p>
+										<span tkey="NearbyPlaceDis7"></span>
+									</div>
+								</div>
+								<div class="crewman_social">
+									<a href="javascript:callGoogleMaps('VkCknn1Kxtp');" ><i class="fa fa-map-marker"></i></a>
+									<a href="javascript:callGoogleSearch('search?q=teatro+nacional+sao+joao');" ><i class="fa fa-search"></i></a>
+									<a href="javascript:callFacebook('TeatroNacionalSaoJoao');" ><i class="fa fa-facebook-square"></i></a>
+								</div>
+							</div>
+						</div><!-- crewman7 -->
+						
+						<!-- crewman8 -->
+						<div class="item">
+							<div class="crewman_item">
+								<div class="crewman">
+									<img src="images/team/8.jpg" alt="" />
+								</div>
+								<div class="crewman_descr center">
+									<div class="crewman_descr_cont">
+										<p tkey="NearbyPlace8"></p>
+										<span tkey="NearbyPlaceDis8"></span>
+									</div>
+								</div>
+								<div class="crewman_social">
+									<a href="javascript:callGoogleMaps('hiZtiaojfu52');" ><i class="fa fa-map-marker"></i></a>
+									<a href="javascript:callGoogleSearch('search?q=rivoli+porto');" ><i class="fa fa-search"></i></a>
+								</div>
+							</div>
+						</div><!-- crewman8 -->
+						<!-- crewman8 -->
+						<div class="item">
+							<div class="crewman_item">
+								<div class="crewman">
+									<img src="images/team/9.jpg" alt="" />
+								</div>
+								<div class="crewman_descr center">
+									<div class="crewman_descr_cont">
+										<p tkey="NearbyPlace9"></p>
+										<span tkey="NearbyPlaceDis9"></span>
+									</div>
+								</div>
+								<div class="crewman_social">
+									<a href="javascript:callGoogleMaps('hxHyxpTjPvx');" ><i class="fa fa-map-marker"></i></a>
+									<a href="javascript:callGoogleSearch('search?q=torre+dos+clerigos');" ><i class="fa fa-search"></i></a>
+								</div>
+							</div>
+						</div><!-- crewman8 -->
+						<!-- crewman8 -->
+						<div class="item">
+							<div class="crewman_item">
+								<div class="crewman">
+									<img src="images/team/10.jpg" alt="" />
+								</div>
+								<div class="crewman_descr center">
+									<div class="crewman_descr_cont">
+										<p tkey="NearbyPlace10"></p>
+										<span tkey="NearbyPlaceDis10"></span>
+									</div>
+								</div>
+								<div class="crewman_social">
+									<a href="javascript:callGoogleMaps('Y7ymE6hzgJB2');" ><i class="fa fa-map-marker"></i></a>
+									<a href="javascript:callGoogleSearch('search?q=ponte+dom+luis');" ><i class="fa fa-search"></i></a>
+								</div>
+							</div>
+						</div><!-- crewman8 -->
+						<!-- crewman8 -->
+						<div class="item">
+							<div class="crewman_item">
+								<div class="crewman">
+									<img src="images/team/11.jpg" alt="" />
+								</div>
+								<div class="crewman_descr center">
+									<div class="crewman_descr_cont">
+										<p tkey="NearbyPlace11"></p>
+										<span tkey="NearbyPlaceDis11"></span>
+									</div>
+								</div>
+								<div class="crewman_social">
+									<a href="javascript:callGoogleMaps('6uySKU4qnmu');" ><i class="fa fa-map-marker"></i></a>
+									<a href="javascript:callGoogleSearch('search?q=se+do+porto');" ><i class="fa fa-search"></i></a>
+								</div>
+							</div>
+						</div><!-- crewman8 -->
+					</div><!-- TEAM SLIDER -->
+				</div><!-- //ROW -->
+			</div><!-- //CONTAINER -->
+		</section><!-- //TEAM -->
+		
+		
+		<!-- NEWS -->
+		<section id="news">
+		
+			<!-- CONTAINER -->
+			<div class="container">
+				<h2 tkey="ReviewTitle"></h2>
+				
+				<!-- TESTIMONIALS -->
+				<div class="testimonials" data-appear-top-offset="-200" data-animated="fadeInUp">
+						
+					<!-- TESTIMONIALS SLIDER -->
+					<div class="owl-demo owl-carousel testim_slider">
+						
+						<!-- TESTIMONIAL1 -->
+						<div class="item">
+							<div class="testim_content" tkey="Review1Content"></div>
+							<div class="testim_author" tkey="Review1Auth"></div>
+						</div><!-- TESTIMONIAL1 -->
+						
+						<!-- TESTIMONIAL2 -->
+						<div class="item">
+							<div class="testim_content" tkey="Review2Content"></div>
+							<div class="testim_author" tkey="Review2Auth"></div>
+						</div><!-- TESTIMONIAL2 -->
+						
+						<!-- TESTIMONIAL3 -->
+						<div class="item">
+							<div class="testim_content" tkey="Review3Content"></div>
+							<div class="testim_author" tkey="Review3Auth"></div><!-- TESTIMONIAL3 -->
+						</div><!-- TESTIMONIALS SLIDER -->
+						<!-- TESTIMONIAL4 -->
+						<div class="item">
+							<div class="testim_content" tkey="Review4Content"></div>
+							<div class="testim_author" tkey="Review4Auth"></div><!-- TESTIMONIAL3 -->
+						</div><!-- TESTIMONIALS SLIDER -->
+						<!-- TESTIMONIAL5 -->
+						<div class="item">
+							<div class="testim_content" tkey="Review5Content"></div>
+							<div class="testim_author" tkey="Review5Auth"></div><!-- TESTIMONIAL3 -->
+						</div><!-- TESTIMONIALS SLIDER -->
+						<!-- TESTIMONIAL6 -->
+						<div class="item">
+							<div class="testim_content" tkey="Review6Content"></div>
+							<div class="testim_author" tkey="Review6Auth"></div><!-- TESTIMONIAL3 -->
+						</div><!-- TESTIMONIALS SLIDER -->
+						<!-- TESTIMONIAL7 -->
+						<div class="item">
+							<div class="testim_content" tkey="Review7Content"></div>
+							<div class="testim_author" tkey="Review7Auth"></div><!-- TESTIMONIAL3 -->
+						</div><!-- TESTIMONIALS SLIDER -->
+				</div><!-- //TESTIMONIALS -->
+			</div><!-- //CONTAINER -->
+		</section><!-- //NEWS -->
+	</div><!-- //PAGE -->
+	
+	<!-- CONTACTS -->
+	<section id="contacts">
+	</section><!-- //CONTACTS -->
+	
+	<!-- FOOTER -->
+	<footer>
+			
+		<!-- CONTAINER -->
+		<div class="container">
+			
+			<!-- ROW -->
+			<div class="row" data-appear-top-offset="-200" data-animated="fadeInUp">	
+				<div class="col-lg-6 col-md-6 col-sm-12 padbot30 foot_about_block">
+					<h4 tkey="AboutUsFooterTitle"></h4>
+					<p tkey="AboutUsFooter1"></p>
+					<p tkey="AboutUsFooter2"></p>
+					<ul class="social">
+						<li><a href="javascript:callFacebook('Visconde-Apartments-804377453082000');"><i class="fa fa-facebook"></i></a></li>
+						<li><a href="javascript:void(0);" class="call_instagram" ><i class="fa fa-instagram"></i></a></li>
+						<li><a href="javascript:void(0);" class="map_show"><i class="fa fa-map-marker"></i></a></li>
+					</ul>
+				</div>
+				
+				<div class="respond_clear"></div>
+				
+				<div class="col-lg-6 col-md-6 padbot30">
+					<h4 tkey="ContactUsFooterTitle"></h4>
+					
+					<!-- CONTACT FORM -->
+					<div class="span9 contact_form">
+						<div id="note"></div>
+						<div id="fields">
+							<form id="contact-form-face" class="row" role="form">
+								<input type="text" name="name" id="cf-name2" placeholder="Your Name *" />
+								<input type="text" name="email" id="cf-email2" placeholder="Your Email *" />
+								<textarea name="message" id="cf-message2" placeholder="Your Message *"></textarea>
+								<button class="contact_btn" id="cf-submit2" name="submit2" value="Send Message">Send Message</button>
+								<div class="comment_note">All fields marked with an asterisk (*) are required</div>
+								<div class="success2 colored-textSuccess" tkey="ContactSuccess"></div>
+								<div class="error2 colored-textError" tkey="ContactError"></div>
+							</form>
+						</div>
+					</div><!-- //CONTACT FORM -->
+				</div>
+			</div><!-- //ROW -->
+		</div><!-- //CONTAINER -->
+	</footer><!-- //FOOTER -->
+	
+	
+	<!-- MAP -->
+	<div id="map">
+		<a class="map_hide" href="javascript:void(0);" ><i class="fa fa-angle-right"></i><i class="fa fa-angle-left"></i></a>
+		<iframe src="http://maps.google.com/maps?f=q&amp;give%20a%20hand=s_q&amp;hl=en&amp;geocode=&amp;q=Rua+de+Visconde+de+B%C3%B3beda%2C+Porto&amp;sll=37.0625,-95.677068&amp;sspn=42.631141,90.263672&amp;ie=UTF8&amp;hq=&amp;hnear=Rua+de+Visconde+de+B%C3%B3beda%2C+Porto&amp;ll=41.146549, -8.600520&amp;spn=0.026448,0.039396&amp;z=14&amp;output=embed" ></iframe>
+
+		
+	</div><!-- //MAP -->
+
+</div>
+
+	<script>
+		// Get the modal
+		window.onload = function(e){ 
+		var modal = document.getElementById('modal01');
+
+		// Get the button that opens the modal
+		var btn = document.getElementById("modal");
+
+		// Get the <span> element that closes the modal
+		var span = document.getElementsByClassName("close")[0];
+
+		// When the user clicks the button, open the modal 
+		btn.onclick = function() {
+		    modal.style.display = "block";
+		}
+
+		// When the user clicks on <span> (x), close the modal
+		span.onclick = function() {
+		    modal.style.display = "none";
+		}
+
+		// When the user clicks anywhere outside of the modal, close it
+		window.onclick = function(event) {
+		    if (event.target == modal) {
+		        modal.style.display = "none";	
+		    }
+		}
+
+
+		};
+	</script>
+</body>
+</html>

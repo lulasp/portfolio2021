@@ -1,0 +1,5 @@
+[05-Jul-2016 22:14:46 America/Chicago] PHP Warning:  require(/home/serpapin/public_html/_assists/public/../bootstrap/autoload.php): failed to open stream: No such file or directory in /home/serpapin/public_html/_assists/public/index.php on line 22
+[05-Jul-2016 22:14:46 America/Chicago] PHP Fatal error:  require(): Failed opening required '/home/serpapin/public_html/_assists/public/../bootstrap/autoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/serpapin/public_html/_assists/public/index.php on line 22
+[07-Jul-2016 02:24:21 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/serpapin/public_html/_assists/storage/framework/views/ba7723edf9aa63c38caca3496413bb9a9224b64d.php on line 28
+[07-Jul-2016 02:24:37 UTC] PHP Fatal error:  Class 'HTML' not found in /home/serpapin/public_html/_assists/storage/framework/views/ba7723edf9aa63c38caca3496413bb9a9224b64d.php on line 28
+[07-Jul-2016 02:24:52 UTC] PHP Fatal error:  Class 'HTML' not found in /home/serpapin/public_html/_assists/storage/framework/views/ba7723edf9aa63c38caca3496413bb9a9224b64d.php on line 28

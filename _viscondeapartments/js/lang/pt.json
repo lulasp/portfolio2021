@@ -1,0 +1,174 @@
+{
+    "menu1" : "Home",
+    "menu2" : "Sobre",
+    "menu3" : "Galeria",
+    "menu4" : "Atrações Perto",
+    "menu5" : "Visconde Mezzanine",
+    "menu6" : "Visconde Loft",
+    "menu7" : "Línguas",
+
+    "slide1Caption1" : "Visconde ",
+    "slide1Caption2" : "Apartments, ",
+    "slide1Caption3" : "Porto.",
+    "slide1Caption4" : "Os Visconde Apartments são dois modernos apartamentos, que oferecem tudo o que é necessário para proporcionar aos seus hóspedes uma estadia perfeita.",
+
+    "slide2Caption1" : "Visconde ",
+    "slide2Caption2" : "Apartments, ",
+    "slide2Caption3" : "Porto.",
+    "slide2Caption4" : "Tudo foi concebido ao pormenor, com detalhes e equipamentos de qualidade, para que proporcionem espaços íntimos e acolhedores.",
+
+    "slide3Caption1" : "Visconde ",
+    "slide3Caption2" : "Apartments, ",
+    "slide3Caption3" : "Porto.",
+    "slide3Caption4" : "Localizados no centro do Porto temos ao seu dispôr uma variedade imensa de atrações e transportes.",
+
+    "slide4Caption1" : "Visconde ",
+    "slide4Caption2" : "Apartments, ",
+    "slide4Caption3" : "Porto.",
+    "slide4Caption4" : "Fique confortavelmente instalado numa magnífica casa do séc. XIX, totalmente reabilitada em 2017 e onde foi possível preservar a maioria dos materiais originais.",
+
+
+    "service_item1_1" : "Baixa do Porto",
+    "service_item1_2" : "Localizados no denominado bairro das Belas Artes, um típico bairro portuense que ainda se mantém fiel às tradições e história  da cidade, estes dois apartamentos beneficiam de uma localização bastante central.",
+
+    "service_item2_1" : "Design Moderno",
+    "service_item2_2" : "Um conceito inspirador, com design moderno mas com alma clássica, onde nada foi deixado ao acaso e onde foi possível preservar a maioria dos materiais originais.",
+
+    "service_item3_1" : "Tudo está Perto",
+    "service_item3_2" : "Com uma localização privilegiada e bastante funcional, os Visconde Apartments estão a poucos minutos a pé do centro da cidade, embora beneficiem da tranquilidade suficiente para que os seus hóspedes possam descansar após um dia de passeio pela cidade!",
+
+
+    "customtab1_1" : "Dois Apartamentos",
+    "customtab1_2" : "Os Visconde Apartments são dois fantásticos apartamentos na Baixa Portuense. O <a href='viscondeMezzanine.html'>Visconde Mezzanine</a>, apartamento dúplex que acomoda três adultos ou dois adultos e duas crianças. O <a href='viscondeLoft.html'>Visconde Loft</a> acomoda dois adultos e uma criança.",
+
+    "customtab2_1" : "Excelente Localização",
+    "customtab2_2" : "A um passo do Jardim de S. Lázaro, o jardim mais antigo de Porto, a 6 minutos do Coliseu e a 12 minutos do centro da cidade, os Visconde Apartments têm uma localização que privilegia o sossego e a tranquilidade embora muito perto da maioria das principais atrações do centro da cidade.",
+
+    "customtab3_1" : "Equipamento de Topo",
+    "customtab3_2" : "Os apartamentos estão equipados com tecnlogia e equipamento de topo. O <a href='viscondeMezzanine.html'>Visconde Mezzanine</a> está equipado com sala de estar com sistema de som rádio, uma Tv Led com 150 canais e uma coluna portátil com ligação Bluetooth. O <a href='viscondeLoft.html'>Visconde Loft</a> está equipado com uma Tv Led e dispõe também de uma coluna com ligação Bluetooth.",
+
+    "customtab4_1" : "Ar Condicionado e Cozinha",
+    "customtab4_2" : "Os dois apartamentos têm à sua disposição ar condicionado. O <a href='viscondeMezzanine.html'>Visconde Mezzanine</a> dispõe de uma cozinha totalmente equipada, enquanto o <a href='viscondeLoft.html'>Visconde Loft</a> de uma Kitchenette, também totalmente equipada. Ambos os apartamentos estão equipados com Extintor, Manta abafa-fogos e estojo de primeiros socorros.",
+
+    "customtab5_1" : "Fantástica Anfitriã",
+    "customtab5_2" : "A Anfitriã dos Visconde Apartments, a Maria, está disposta a esclarecer qualquer dúvida que tenha durante a sua estadia para que tenha a melhor experiência no Porto.",
+
+
+    "aboutTitle" : "Sobre os Apartamentos",
+    "aboutMain1" : "Bem-vindo à cidade do Porto. O Centro Histórico do Porto é Património Cultural da Humanidade, classificado pela UNESCO, desde 1996. Surpreenda-se com a sua riqueza e cultura histórica. A maior parte das ruas e monumentos históricos da cidade estão localizados no centro, perto dos Visconde Apartments, por isso a melhor maneira de conhecer a cidade é a pé.",
+    "aboutMain2" : "Fique confortavelmente instalado numa magnifica casa do século XIX, totalmente reabilitada em 2017, onde se pretendeu respeitar a sua identidade, não descurando a sua verdadeira essência. Estes dois apartamentos de luxo proporcionam uma experiência única, recheada de história, elegância e bem-estar.",
+
+    "aboutBtn1"  : "Confirmar Disponibilidade via e-mail",
+    "aboutBtn2"  : "Visitar Airbnb.com",
+    "aboutBtn3"  : "Visitar Booking.com", 
+
+
+    "GalleryTitle"  : "Os Nossos Apartamentos:",
+
+
+    "NearbyTitle"  : "Atrações Perto:",
+
+    "NearbyPlace1"     : "Jardins de S. Lázaro",
+    "NearbyPlaceDis1"  : "200 Metros.",
+
+    "NearbyPlace2"     : "Coliseu do Porto",
+    "NearbyPlaceDis2"  : "400 Metros.",
+
+    "NearbyPlace3"     : "Café Majestic:",
+    "NearbyPlaceDis3"  : "500 Metros.",
+
+    "NearbyPlace4"     : "Igreja de Santo Ildefonso",
+    "NearbyPlaceDis4"  : "500 Metros.",
+
+    "NearbyPlace5"     : "Mercado do Bolhão",
+    "NearbyPlaceDis5"  : "600 Metros.",
+
+    "NearbyPlace6"     : "Shopping Via Catarina",
+    "NearbyPlaceDis6"  : "500 Metros.",
+
+    "NearbyPlace7"     : "Teatro Nacional de S. João",
+    "NearbyPlaceDis7"  : "600 Metros.",
+
+    "NearbyPlace8"     : "Teatro Rivoli",
+    "NearbyPlaceDis8"  : "800 Metros.",
+
+    "NearbyPlace9"     : "Torre dos Clérigos",
+    "NearbyPlaceDis9"  : "1200 Metros.",
+
+    "NearbyPlace10"     : "Ponte D. Luís",
+    "NearbyPlaceDis10"  : "1100 Metros.",
+
+    "NearbyPlace11"     : "Sé do Porto",
+    "NearbyPlaceDis11"  : "1100 Metros.",
+
+    "ReviewTitle"  : "Comentários de Hóspedes",
+
+    "Review1Content"  : "A Maria foi uma otima anfitriã e o apartamento era perfeito. Localizado a poucos metros do melhor do Porto, mas bastante calmo, local e encantador. Recomendo definitivamente.",
+    "Review1Auth"     : "<b>- Emiliano, Amsterdão.</b> Do Airbnb",
+
+    "Review2Content"  : "Apartamento lindo, decorado com grande gosto. Local fantástico, tudo pode ser feito a pé.",
+    "Review2Auth"     : "<b>- Emilie, França.</b> Do Booking.",
+
+    "Review3Content"  : "Anfitriã muito simpática, localização fantástica e boas instalações do apartamento. Recomendo!",
+    "Review3Auth"     : "<b>- Antonius, Alemanha.</b> Do Booking.",
+
+    "Review4Content"  : "Maria foi uma excelente comunicadora e ajudou a tornar a estadia perfeita. Realmente adorei esse local para uma visita ao Porto. Bonita área logo acima da maioria das áreas turísticas. Caminhe até todo o lado e volte para um lindo loft com janelas incríveis e uma pequena varanda para a rua.",
+    "Review4Auth"     : "<b>- Marcus, EUA.</b> Do Airbnb.",
+
+    "Review5Content"  : "Divertimo-nos bastante a ficar no apartamento da Maria. Ela pessoalmente foi nos buscar à estação de comboio, e foi extremamente conscienciosa a lidar connosco, e tinha algumas boas dicas sobre sítios. O apartamento em si está numa excelente localização, bastante central para tudo. Nós tivemos uma ótima estadia!",
+    "Review5Auth"     : "<b>- Ryan, Malásia.</b> Do Airbnb.",
+
+    "Review6Content"  : "O apartamento era muito limpo e confortável. O proprietário é uma pessoa muito simpática que se preocupa muito com o seu bem estar no seu apartamento. Nós nos divertimos muito lá. Muito obrigado!",
+    "Review6Auth"     : "<b>- Isabella, Alemanha.</b> Do Booking.",
+
+    "Review7Content"  : "Maria é realmente um superhost. Nós nos divertimos muito no seu incrível apartamento. As fotos não fazem justiça!",
+    "Review7Auth"     : "<b>- David, Israel.</b> Do Airbnb.",
+
+    "AboutUsFooterTitle"  : "<b>Sobre</b> Nós",
+    "ContactUsFooterTitle"  : "<b>Contacte-nos</b>",
+    "AboutUsFooter1"  : "Nos Visconde Apartments nós prezamos pelo seu bem estar e fazemos o nosso melhor para que os nossos hóspedes disfrutem de visitar o Porto.", 
+    "AboutUsFooter2"  : "Os nossos apartamentos estão totalmente equipados com a tecnologia mais recente e oferecem aos nossos hóspedes a estadia perfeita.",
+    "ContactNote"     : "Todos os campos marcados com um (*) são obrigatórios",
+    "ContactSuccess"  : "A sua mensagem foi enviada com sucesso. Obrigado! <i class='fa fa-check'></i>",
+    "ContactError"    : "Um email válido e uma mensagem são obrigatórios. Por favor tente de novo! <i class='fa fa-close'></i>",
+    "ContactButton"   : "Enviar Mensagem",
+
+
+
+
+    "Mez_bc1"  : "<b>Visconde</b> Mezzanine",
+
+    "Mez_IntroTitle"  : "<b>Visconde</b> Mezzanine",
+    "Mez_IntroMain1"  : "No 1º andar, o Visconde Mezzanine é virado para a frente com uma pequena varanda e vista para a cidade. Com amplas janelas que permitem a entrada de muita luz natural e um pé direito duplo de 6 metros, este apartamento tem um espetacular mezzanine onde fica o quarto com cama queen size e uma TV de ecrã plano.",
+    "Mez_IntroMain2"  : "Na sala tem à disposição uma TV led, som ambiente e uma coluna de som com ligação Bluetooth. Casa de banho privativa com secador de cabelo e produtos de higiene pessoal.",
+
+    "Mez_AboutTitle"    : "Sobre o <b>Mezzanine</b>",
+    "Mez_AboutMain"     : "O Visconde Mezzanine, apartamento dúplex que acomoda três adultos ou dois adultos e duas crianças, dispõe de um quarto com cama queen size e uma TV Led. No Visconde Mezzanine poderá contar com uma sala de estar com sistema de som rádio, uma TV Led com 150 canais, uma coluna portátil Harman Kardon com ligação Bluetooth e ainda um sofá cama para um adulto ou duas crianças. O Mezzanine tem também uma cozinha totalmente equipada e dispõe de ar condicionado.",
+    "Mez_AboutMain2"    : "Os Visconde Apartments tem como uma das grandes mais valias a localização, apenas a alguns minutos de distância das melhores atrações do Porto. Coliseu do Porto, Café Majestic, Ponte D. Luís e torre dos Clérigos são alguns exemplos do melhor que a cidade do Porto tem para oferecer.",
+    "Mez_AboutButton"   : "Confirmar Disponibilidade via e-mail",
+    "Mez_AboutButton2"  : "Visitar Airbnb.com",
+    "Mez_AboutButton3"  : "Visitar Booking.com", 
+
+    "Mez_GalleryTitle"  : "Visconde<b> Mezzanine</b>",
+
+
+
+
+
+    "Loft_bc1"  : "<b>Visconde</b> Loft",
+
+    "Loft_IntroTitle"  : "<b>Visconde</b> Loft",
+    "Loft_IntroMain1"  : "No R/c, o Visconde Loft é virado para a frente com amplas janelas que permitem a entrada de muita luz natural. Este apartamento tem um quarto com cama de casal, uma sala com TV led, som ambiente e uma coluna de som com ligação Bluetooth. O Visconde Loft tem também uma casa de banho privativa com secador de cabelo e produtos de higiene pessoal.",
+    "Loft_IntroMain2"  : "",
+
+    "Loft_AboutTitle"    : "Sobre o <b>Loft</b>",
+    "Loft_AboutMain"     : "O Visconde Loft, que acomoda dois adultos e uma criança, dispõe de um quarto com cama de casal. No Loft poderá contar com uma sala de estar com uma TV Led com 150 canais e uma coluna portátil Marshall com ligação Bluetooth e ainda um sofá cama para uma criança até 12 anos. O Visconde Loft tem também uma kitchenette totalmente equipada e ar condicionado.",
+    "Loft_AboutMain2"    : "Os Visconde Apartments tem como uma das grandes mais valias a localização, apenas a alguns minutos de distância das melhores atrações do Porto. Coliseu do Porto, Café Majestic, Ponte D. Luís e torre dos Clérigos são alguns exemplos do melhor que a cidade do Porto tem para oferecer.",
+    "Loft_AboutButton"   : "Confirmar Disponibilidade via e-mail",
+    "Loft_AboutButton2"  : "Visitar Airbnb.com",
+    "Loft_AboutButton3"  : "Visitar Booking.com", 
+
+    "Loft_GalleryTitle"  : "Visconde<b> Loft</b>"  
+
+
+}

@@ -1,0 +1,174 @@
+{
+    "menu1" : "Home",
+    "menu2" : "About",
+    "menu3" : "Photo Gallery",
+    "menu4" : "Nearby Attractions",
+    "menu5" : "Visconde Mezzanine",
+    "menu6" : "Visconde Loft",
+    "menu7" : "Languages",
+
+    "slide1Caption1" : "Visconde ",
+    "slide1Caption2" : "Apartments, ",
+    "slide1Caption3" : "Porto.",
+    "slide1Caption4" : "Two modern Apartments in the centre of Porto, Portugal. We have everything needed to offer you a perfect stay.",
+
+    "slide2Caption1" : "Visconde ",
+    "slide2Caption2" : "Apartments, ",
+    "slide2Caption3" : "Porto.",
+    "slide2Caption4" : "Everything has been designed to detail, with high end equipment, to provide intimate and a cozy space for our guests.",
+
+    "slide3Caption1" : "Visconde ",
+    "slide3Caption2" : "Apartments, ",
+    "slide3Caption3" : "Porto.",
+    "slide3Caption4" : "Located in the heart of Porto we have an infinite range of attractions and transportation nearby.",
+
+    "slide4Caption1" : "Visconde ",
+    "slide4Caption2" : "Apartments, ",
+    "slide4Caption3" : "Porto.",
+    "slide4Caption4" : "Stay comfortably in a magnificent house from the XIX century, totally rehabilitated in 2017 and where it was possible to preserve most of the original materials.",
+
+    "service_item1_1" : "Downtown Porto",
+    "service_item1_2" : "Located in the so called Fine Arts district, a typical Porto neighborhood which still is faithful to it's traditions and history. These two apartments benefit from a central localization in Porto.",
+
+    "service_item2_1" : "Modern Design",
+    "service_item2_2" : "An inspiring concept, achieved with a modern design but with a classic soul, where nothing was left to change and where it was possible to preserve most of the original materials.",
+
+    "service_item3_1" : "Lots of attractions nearby",
+    "service_item3_2" : "With a privileged and very functional location, the Visconde Apartments are only minutes away from the city centre although they benefit from the tranquility, enough for our guests to rest after a day of sightseeing!",
+                        
+
+    "customtab1_1" : "Two Apartments",
+    "customtab1_2" : "Visconde Apartments are two great Apartments in the city centre of Porto, Portugal. <a href='viscondeMezzanine.html'>Visconde Mezzanine</a>, duplex apartment can accommodate three adults or two adults and two children. <a href='viscondeLoft.html'>Visconde Loft</a> can accommodate two adults and one child.",
+
+    "customtab2_1" : "Excellent Location",
+    "customtab2_2" : "Just a step away from Jardim de S. Lázaro, Porto's oldest garden, a 6 minute walk from the Porto's Coliseum and 12 minutes from the city centre. The Visconde Apartments have a location that privileges tranquility and serenity whilst still very close to Porto's main attractions.",
+
+    "customtab3_1" : "High End Equipment",
+    "customtab3_2" : "Both Apartments are equipped with high end technology and equipment. The <a href='viscondeMezzanine.html'>Visconde Mezzanine</a> is equipped with living room with an embedded radio system, a flat screen Tv with 150 channels and a portable speaker with Bluetooth. The <a href='viscondeLoft.html'>Visconde Loft</a> has a flat screen Tv and also a speaker with Bluetooth.",
+
+    "customtab4_1" : "Air Conditioning and Kitchen",
+    "customtab4_2" : "The Apartments have at your disposal air conditioning. <a href='viscondeMezzanine.html'>Visconde Mezzanine</a> has a fully equipped kitchen, while <a href='viscondeLoft.html'>Visconde Loft</a> has a Kitchenette, also fully equipped. Both the Apartments have a fire extinguisher, firt aid kit and fire blanket.",
+
+    "customtab5_1" : "Amazing and Thoughtful Host",
+    "customtab5_2" : "Our host, Maria, is willing to clarify any doubts you might have about your stay so that you have the best experience in Porto.",
+
+
+    "aboutTitle" : "About our Apartments",
+    "aboutMain1" : "Welcome to the city of Porto. The Historic Center of Porto is a Cultural Heritage of Humanity, classified by UNESCO since 1996. Surprise yourself with the richness of its historical heritage and its excellent cultural agenda. Most of the historic streets and monuments of the city are located close by so the best way to get to know the city is by walking.",
+    "aboutMain2" : "Stay comfortably in a magnificent 19th century house, totally rehabilitated in 2017, and where it was possible to preserve most of the original materials. These two luxurious Apartments, which have a contemporary decor with a classic soul, provide a unique experience full of history, elegance and wellbeing.",
+    "aboutBtn1"  : "Confirm Availability via e-mail",
+    "aboutBtn2"  : "Visit Airbnb.com",
+    "aboutBtn3"  : "Visit Booking.com",
+
+    "GalleryTitle"  : "Our Apartments:",
+
+
+    "NearbyTitle"  : "Nearby Attractions:",
+
+    "NearbyPlace1"     : "S. Lázaro Gardens",
+    "NearbyPlaceDis1"  : "200 Meters.",
+
+    "NearbyPlace2"     : "Porto Coliseum Theater",
+    "NearbyPlaceDis2"  : "400 Meters.",
+
+    "NearbyPlace3"     : "Café Majestic:",
+    "NearbyPlaceDis3"  : "500 Meters.",
+
+    "NearbyPlace4"     : "Santo Ildefonso Church",
+    "NearbyPlaceDis4"  : "500 Meters.",
+
+    "NearbyPlace5"     : "Bolhão Market",
+    "NearbyPlaceDis5"  : "600 Meters.",
+
+    "NearbyPlace6"     : "Via Catarina Shopping",
+    "NearbyPlaceDis6"  : "500 Meters.",
+
+    "NearbyPlace7"     : "S. João National Theater",
+    "NearbyPlaceDis7"  : "600 Meters.",
+
+    "NearbyPlace8"     : "Rivoli Theater",
+    "NearbyPlaceDis8"  : "800 Meters.",
+
+    "NearbyPlace9"     : "Clérigos Tower",
+    "NearbyPlaceDis9"  : "1200 Meters.",
+
+    "NearbyPlace10"     : "D. Luís Bridge",
+    "NearbyPlaceDis10"  : "1100 Meters.",
+
+    "NearbyPlace11"     : "Sé do Porto",
+    "NearbyPlaceDis11"  : "1100 Meters.",
+
+    "ReviewTitle"  : "Guest Reviews",
+
+    "Review1Content"  : "Maria was amazing host and the flat is just perfect. Located meters away from Porto’s best, and still quiet, local and charming. Definitely recommended.",
+    "Review1Auth"     : "<b>- Emiliano, Amsterdam.</b> From Airbnb",
+
+    "Review2Content"  : "Beautiful apartment decorated with great taste. Great location everything can be done on foot.",
+    "Review2Auth"     : "<b>- Emilie, France.</b> From Booking.",
+
+    "Review3Content"  : "Very nice hosts, great location and good facilities of the designer apartment. Recommended!",
+    "Review3Auth"     : "<b>- Antonius, Germany.</b> From Booking.",
+
+    "Review4Content"  : "Maria was an excellent communicator and helped make the stay perfect. Really loved this location for a visit to Porto. Beautiful area just above most of the more touristy areas. Walk to everything and come home to a gorgeous loft apartment with amazing windows and little balcony over the street.",
+    "Review4Auth"     : "<b>- Marcus, USA.</b> From Airbnb.",
+
+    "Review5Content"  : "We had a great time staying at Maria's apartment. She personally picked us up from the train station, and was extremely conscientious in her dealings with us, and had some good tips on sites. The apartment itself was in an excellent location, pretty central to everything. We had a great stay!",
+    "Review5Auth"     : "<b>- Ryan, Malaysia.</b> From Airbnb.",
+
+    "Review6Content"  : "The apartment was very clean and comfortable. The owner is such a nice person who cares much about your well being at her apartment. We had a very good time there. Thank you so much!",
+    "Review6Auth"     : "<b>- Isabella, Germany.</b> From Booking.",
+
+    "Review7Content"  : "Maria is truly a superhost. We had a great time in her amazing apartment. The photos dont do it justice!",
+    "Review7Auth"     : "<b>- David, Israel.</b> From Airbnb.",
+
+
+    "AboutUsFooterTitle"  : "<b>About</b> Us",
+    "ContactUsFooterTitle"  : "<b>Contact</b> Us",
+    "AboutUsFooter1"  : "Here at Visconde Apartments we praize your wellbeing and do our best so that you enjoy visiting Porto.",
+    "AboutUsFooter2"  : "Our Apartments are fully equipped with the lastest in technology and offer all you need for a perfect stay.",
+    "ContactNote"     : "All fields marked with an asterisk (*) are required",
+    "ContactSuccess"  : "Your message has been sent successfully. Thank you! <i class='fa fa-check'></i>",
+    "ContactError"    : "A valid Email and message are required. Please try again! <i class='fa fa-close'></i>",
+    "ContactButton"   : "Send Message",
+    "ContactName"     : "Name /Nome",
+
+
+
+
+
+    "Mez_bc1"  : "<b>Visconde</b> Mezzanine",
+
+    "Mez_IntroTitle"  : "<b>Visconde</b> Mezzanine",
+    "Mez_IntroMain1"  : "On the first floor, the Visconde Mezzanine is faced forward with a small balcony with the city view. With big windows that allow the entrance of plenty of natural light, with a ceiling as high as 6 meters, this Apartment has an amazing mezzanine where the room is located with a queen size bed and a flat screen TV.",                         
+    "Mez_IntroMain2"  : "In the living room you have at your disposal a flat screen TV, also you have a Bluetooth wireless speaker. Private Bathroom with hair dryer and personal higene products.",
+
+    "Mez_AboutTitle" : "About our <b>Mezzanine</b>",
+    "Mez_AboutMain" : "Visconde Mezzanine, Duplex Apartment which can accommodate three adults or two adults and two kids, has at your disposal a bedroom with a queen size bed and a flat screen Tv. You can also enjoy a living room with a embedded radio sistem, a flat screen Tv with 150 channels, a Harman Kardon Bluetooth speaker and a sofa bed for an adult or two children. The Mezzanine comes with a fully equipped kitchen and air conditioning.",
+    "Mez_AboutMain2" : "The Visconde Apartments have in its location one of its strengths, just a few minutes away from Porto's best attractions. Clérigos Tower, Porto’s Coliseum, Café Majestic, D. Luis Bridge are just a few examples of the best the city of Porto has to offer.",
+                    
+    "Mez_AboutButton"  : "Confirm Availability via e-mail",
+    "Mez_AboutButton2"  : "Visit Airbnb.com",
+    "Mez_AboutButton3"  : "Visit Booking.com", 
+
+    "Mez_GalleryTitle"  : "Visconde<b> Mezzanine</b>", 
+
+
+
+
+
+    "Loft_bc1"  : "<b>Visconde</b> Loft",
+
+    "Loft_IntroTitle"  : "<b>Visconde</b> Loft",
+    "Loft_IntroMain1"  : "At the ground floor, the Visconde Loft is faced forward with big windows that allow the entrance of plenty of natural light. This Apartment has one room with a double bed, a living room with a flat screen Tv, embedded radio sistem and a Bluetooth speaker. The Visconde loft has also a private bathroom equipped with a hair dryer and personal higiene products.",
+    "Loft_IntroMain2"  : "",
+
+    "Loft_AboutTitle" : "About our <b>Loft</b>",
+    "Loft_AboutMain" : "The Visconde Loft, which accommodates two adults and one child, has at your disposal a bedroom with a double bed. The loft has a living room with a flat screen Tv with 150 channels and a Marshall portable speaker with Bluetooth connection and also a sofa bed for one child of up to 12 years. The Visconde Loft has also a fully equipped kitchenette and air conditioning.",
+    "Loft_AboutMain2" : "The Visconde Apartments have in its location one of its strengths, just a few minutes away from Porto's best attractions. Clérigos Tower, Porto’s Coliseum, Café Majestic, D. Luis Bridge are just a few examples of the best the city of Porto has to offer.",
+
+    "Loft_AboutButton"  : "Confirm Availability via e-mail",
+    "Loft_AboutButton2"  : "Visit Airbnb.com",
+    "Loft_AboutButton3"  : "Visit Booking.com", 
+
+    "Loft_GalleryTitle"  : "Visconde<b> Loft</b>"  
+}
