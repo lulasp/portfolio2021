@@ -66,32 +66,22 @@
 
 	<script type="text/javascript">
 		function OpenInNewTab(url) {
-			var win = window.open(url = 'http://www.gogadgets.pro', '_blank');
+			var win = window.open(url = 'http://www.technologycatalogue.com', '_blank');
 			win.focus();
 		}
 
 		function OpenInNewTab2(url) {
-			var win = window.open(url = 'https://hidden-reaches-97778.herokuapp.com', '_blank');
+			var win = window.open(url = 'https://www.evertis.com/', '_blank');
 			win.focus();
 		}
 
 		function OpenInNewTab3(url) {
-			var win = window.open(url = 'http://assists.serpapinto.net/about', '_blank');
-			win.focus();
-		}
-
-		function OpenInNewTab4(url) {
 			var win = window.open(url = 'https://www.industrialsolutions.pt', '_blank');
 			win.focus();
 		}
 
-		function OpenInNewTab5(url) {
-			var win = window.open(url = 'http://www.evertis.com/', '_blank');
-			win.focus();
-		}
-
-		function OpenInNewTab6(url) {
-			var win = window.open(url = 'https://viscondeapartments.pt/', '_blank');
+		function OpenInNewTab4(url) {
+			var win = window.open(url = 'https://hidden-reaches-97778.herokuapp.com', '_blank');
 			win.focus();
 		}
 	</script>
