@@ -103,7 +103,7 @@ window.onload = function onLoad() {
   bar4.text.style.fontSize = '2rem';
   bar4.text.style.color = '#FF4747';
 
-  bar4.animate(0.65);  // Number from 0.0 to 1.0
+  bar4.animate(0.60);  // Number from 0.0 to 1.0
 
 
   //JS

@@ -95,7 +95,6 @@
 			win.focus();
 		}
 	</script>
-
 </head>
 
 <body>
@@ -171,8 +170,21 @@
 						<h2>About me</h2>
 						<div class="colored-line pull-left">
 						</div>
-						<p>Hello, my name is Luís Serpa Pinto and I was born in Porto, Portugal. Now I'm living in the Netherlands, working as a Web Developer in Delft. I always had an interest in technology and it's possibilities. I graduated in Portugal with a degree in Multimedia Communication Technologies from <a href="https://www.ismai.pt" target="_blank">Instituto Universitário da Maia (ISMAI)</a>.</p>
-						<p>After having worked at <a href="http://www.glintt.com" target="_blank"><b>Glintt, Software Solutions, S.A</b></a> and <a href="http://www.fastluza.pt" target="_blank">Fastluza</a> as a Software and Web Developer respectively, I took one year off to work on personal projects and also work as a Freelancer, mainly in Web Development. In January 2020 I moved to the Netherlands and worked at <a href="https://www.technologycatalogue.com" target="_blank">TechnologyCatalogue.com</a> up until June 2021. Currently I’m looking for a position as a Web Developer.</p>
+						<p>
+							Hello, my name is Luís Serpa Pinto and I was born in Porto, Portugal. I lived a couple of years in the Netherlands working
+							as a Web Developer in Delft. Now I moved back to Portugal and I'm searching for a Web Developer position.
+							I always had an interest in technology and it's possibilities.
+							I graduated in Portugal with a degree in Multimedia Communication Technologies from
+							<a href="https://www.ismai.pt" target="_blank">Instituto Universitário da Maia (ISMAI)</a>.
+						</p>
+						<p>
+							After having worked at <a href="http://www.glintt.com" target="_blank"><b>Glintt, Software Solutions, S.A</b></a>
+							and <a href="http://www.fastluza.pt" target="_blank">Fastluza</a>
+							as a Software and Web Developer respectively, I took one year off to work on personal projects and I also worked as a Freelancer,
+							mainly in Web Development. In January 2020 I moved to the Netherlands and worked at
+							<a href="https://www.technologycatalogue.com" target="_blank">TechnologyCatalogue.com</a>
+							up until June 2021. Currently I’m looking for a position as a Web Developer.
+						</p>
 						<br><br>
 						<h6>I consider myself:</h6>
 						<ul class="feature-list-2">
@@ -182,7 +194,10 @@
 								</div>
 								<div class="details pull-left">
 									<h6>Problem Solver & Team Worker</h6>
-									<p>I like to deconstruct my tasks into smaller objectives which can be achieved easier. I consider myself a good team worker as I like to contribute to a productive environment.</p>
+									<p>
+										I like to deconstruct my tasks into smaller objectives which can be achieved easier.
+										I consider myself a good team worker as I like to contribute to a productive environment.
+									</p>
 								</div>
 							</li>
 							<li>
@@ -191,7 +206,11 @@
 								</div>
 								<div class="details pull-left">
 									<h6>Continuous Learner & Excellency Oriented</h6>
-									<p>I'm a continuous learner not only in programming but in general, so I try to learn new things every day. I also consider myself to be excellency oriented as I take great pride in what I do, therefore I try to potentialize my projects in the best way possible.</p>
+									<p>
+										I'm a continuous learner not only in programming but in general,
+										so I try to learn new things every day. I also consider myself to be excellency oriented as
+										I take great pride in what I do, therefore I try to potentialize my projects in the best way possible.
+									</p>
 								</div>
 							</li>
 						</ul>
@@ -208,8 +227,20 @@
 						<h2>A little insight into my life until now</h2>
 						<div class="colored-line pull-left">
 						</div>
-						<p>Since early in my life I developed an interest in computers and their capabilities. As a result of this interest I studied multimedia in high-school and after I got a graduate degree at ISMAI, all this to achieve my goal: Becoming a Web Developer.</p>
-						<p>I worked at Fastluza for 9 months and after 1 year and 3 months at Glintt. During my time at Fastluza I worked on multiple WordPress websites and websites that were developed using HTML, CSS, PHP, and JavaScript.Working at Glintt was a bit different, I was assigned to work with PL/SQL - Oracle Forms. This allowed me to work with very stable and mature projects with high responsibility and a huge focus on quality & assurance. It made me grow as a developer and as an employee. At TechnologyCatalogue.com I worked with Drupal, on an Agile environemnt. This gave me the opportunity to consolidate the PHP skills I had acquired over the past years as well as improve my Sass and Twig templating skills.</p>
+						<p>
+							Since early in my life I developed an interest in computers and their capabilities. As a result of this interest I studied
+							multimedia in high-school and after I got a graduate degree at ISMAI, all this to achieve my goal: Becoming a Web Developer.
+						</p>
+						<p>
+							I worked at Fastluza for 9 months and after 1 year and 3 months at Glintt. During my time at Fastluza I worked on multiple WordPress
+							websites and websites that were developed using HTML, CSS, PHP, and JavaScript. Working at Glintt was a bit different,
+							I worked with PL/SQL - Oracle Forms. This allowed me to dive in very stable and mature projects with high responsibility and a huge
+							focus on quality & assurance. It made me grow as a developer and as an employee. At TechnologyCatalogue.com I worked with Drupal,
+							an open-source CMS in PHP. We also used jQuery, SASS and TWIG. At TechnologyCatalogue I was responsible for a big part of a platform wide
+							revamp and implementation of features such as carousels, voting systems, search filters and other functionalities.
+							I also frequently took lead in meetings both internally and externally.
+							All my past work experience has been in Agile environemnts, either with scrum or Kanban methodologies so I'm familiar with both.
+						</p>
 						<br>
 						<input type="button" value="Curriculum vitae" class="btn standard-button" data-style="expand-left" onClick="window.open('CV/CV-LuisSerpaPinto.pdf');">
 						<p></p>
@@ -221,7 +252,13 @@
 								</div>
 								<div class="details pull-left">
 									<h6>English</h6>
-									<p>I am bilingual, I can write and talk both English and Portuguese as a first language. For 10 years I studied at an international school, <a href="https://www.clip.pt/" target="_blank">CLIP</a>, where my classes where all taught in English. I also completed an English language course by the <a href="https://www.britishcouncil.pt/" target="_blank">British Council</a>, and later I went to Cambridge for 3 months for another English course. This gave me an important tool for today's world.</p>
+									<p>
+										I am bilingual, I can write and talk both English and Portuguese as a first language. For 10 years I studied at an
+										international school, <a href="https://www.clip.pt/" target="_blank">CLIP</a>,
+										where my classes where all taught in English. I also completed an English language course by the
+										<a href="https://www.britishcouncil.pt/" target="_blank">British Council</a>,
+										and later I went to Cambridge for 3 months for another English course. This gave me an important tool for today's world.
+									</p>
 								</div>
 							</li>
 							<li>
@@ -230,7 +267,10 @@
 								</div>
 								<div class="details pull-left">
 									<h6>Adventurous & Pro-active</h6>
-									<p>I like to travel, visit and explore. I also like to help, optimize and create. This makes me an active individual who contributes to a more productive and sustainable work environment.</p>
+									<p>
+										I like to travel, visit and explore. I also like to help, optimize and create. This makes me an active individual who
+										contributes to a more productive and sustainable work environment.
+									</p>
 								</div>
 							</li>
 						</ul>
@@ -329,7 +369,10 @@
 								<div class="progress-html" id="container"></div>
 							</div>
 							<h4>HTML & CSS</h4>
-							<p>With all my projects having HTML and CSS involved I'm very comfortable using both these languages. Although there is always room for improvement!</p>
+							<p>
+								With all my projects having HTML and CSS involved I'm very comfortable using both these languages.
+								Although there is always room for improvement!
+							</p>
 						</div>
 					</div>
 					<div class="col-md-4">
@@ -338,9 +381,11 @@
 								<div class="progress-php" id="containerPhp"></div>
 							</div>
 							<h4>PHP (Drupal, Laravel & WP)</h4>
-							<p>Having done some projects using PHP with Drupal and Laravel I can write PHP code.
+							<p>
+								Having done some projects using PHP with Drupal and Laravel I can write PHP code.
 								I also worked with WordPress and consider my skills to be good.
-								Although there is always learning to do, as the saying goes "Practise makes perfect".</p>
+								Although there is always learning to do, as the saying goes "Practise makes perfect".
+							</p>
 						</div>
 					</div>
 					<div class="col-md-4">
@@ -349,7 +394,10 @@
 								<div class="progress-js" id="containerJs"></div>
 							</div>
 							<h4>JS, Node & React</h4>
-							<p>Most of my projects use JavaScript or Jquery in some of their features. I recently did a MERN Stack course by Udemy and I'm developing an App with these technologies.</p>
+							<p>
+								Most of my projects use JavaScript or Jquery in some of their features.
+								I recently did a MERN Stack course by Udemy and I'm developing a personal App with these technologies.
+							</p>
 						</div>
 					</div>
 				</div>
@@ -360,7 +408,10 @@
 								<div class="progress-Laravel" id="containerLaravel"></div>
 							</div>
 							<h4>PL/SQL - Oracle Forms</h4>
-							<p>Having worked with PL/SQL at Glintt I feel at ease working with Oracle Forms. I'm used to handling big projects with millions of database records due to the nature of Glintts software.</p>
+							<p>
+								Having worked with PL/SQL at Glintt I feel at ease working with Oracle Forms.
+								I'm used to handling big projects with millions of database records due to the nature of Glintts software.
+							</p>
 						</div>
 					</div>
 					<div class="col-md-4">
@@ -369,7 +420,10 @@
 								<div class="progress-Wp" id="containerWP"></div>
 							</div>
 							<h4>Git</h4>
-							<p>I work with Git (Github & Gitlab) I feel confident working with continuous integration and continuous deployment. Feel free to check my personal <a href="https://github.com/lulasp" target="_blank">Github page</a></p>
+							<p>
+								I work with Git (Github & Gitlab) I feel confident working with continuous integration and continuous deployment.
+								Feel free to check my personal <a href="https://github.com/lulasp" target="_blank">Github page</a>
+							</p>
 						</div>
 					</div>
 					<div class="col-md-4">

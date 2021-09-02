@@ -95,22 +95,15 @@
 </head>
 
 <body>
-
 	<div class="preloader">
 		<div class="status">&nbsp;</div>
 	</div>
-
-
 	<header id="home">
-
 		<div class="color-overlay">
-
 			<div class="navigation-header">
-
 				<div class="navbar navbar-inverse bs-docs-nav navbar-fixed-top sticky-navigation">
 					<div class="container">
 						<div class="navbar-header">
-
 							<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#landx-navigation">
 								<span class="sr-only">Toggle navigation</span>
 								<span class="icon-bar"></span>
@@ -118,9 +111,7 @@
 								<span class="icon-bar"></span>
 							</button>
 							<a class="navbar-brand" href="#"><img src="images/LOGO_LSP_NOVO.png" alt=""></a>
-
 						</div>
-
 						<div class="navbar-collapse collapse" id="landx-navigation">
 							<ul class="nav navbar-nav navbar-right main-navigation">
 								<li><a href="#home">Home</a></li>
@@ -131,20 +122,13 @@
 								<li class="lang"><a href="index.php"><img src="images/flag-en.png" class="Iconflag" alt="Flag"></a></li>
 							</ul>
 						</div>
-
 					</div>
-
 				</div>
-
-
 				<div class="navbar non-sticky">
-
 					<div class="container">
-
 						<div class="navbar-header">
 							<img src="images/LOGO_LSP_NOVO.png" alt="">
 						</div>
-
 						<ul class="nav navbar-nav navbar-right social-navigation hidden-xs">
 							<li><a target="_blank" href="https://www.facebook.com/lula.serpapinto"><i class="social_facebook_square"></i></a></li>
 							<li><a target="_blank" href="https://www.instagram.com/lula__sp"><i class="social_instagram_square"></i></a></li>
@@ -152,40 +136,24 @@
 							<li><a target="_blank" href="https://github.com/lulasp"><i class="social_github_square"></i></a></li>
 						</ul>
 					</div>
-
 				</div>
-
 			</div>
-
 			<div class="container">
-
 				<div class="row">
-
 					<div class="col-md-10 col-md-offset-1 intro-section">
-
 						<h1 class="intro">
 							Luís <span class="strong colored-text">Serpa Pinto</span>
 						</h1>
-
 						<p class="sub-heading">
 							Web Developer
 						</p>
-
 						<div id="cta-5" class="button-container">
-
 						</div>
-
 					</div>
-
 				</div>
-
 			</div>
-
 		</div>
-
 	</header>
-
-
 	<section class="section1" id="section1">
 		<div class="container">
 			<div class="row">
@@ -200,9 +168,18 @@
 						<div class="colored-line pull-left">
 						</div>
 						<p>
-							Nascido no Porto, sempre tive interesse nas tecnologias e nas suas possibilidades. Tenho a licenciatura de Tecnologias de Comunicação Multimédia que obtive no <a href="https://www.ismai.pt" target="_blank">Instituto Universitário da Maia (ISMAI)</a>. Neste momento trabalho como freelancer nas áreas de Desenvolvimento Web, Multimédia, E-commerce, SEO e Marketing Digital. </p>
+							Nascido no Porto, sempre tive interesse nas tecnologias e nas suas possibilidades.
+							Tenho a licenciatura de Tecnologias de Comunicação Multimédia que obtive no
+							<a href="https://www.ismai.pt" target="_blank">Instituto Universitário da Maia (ISMAI)</a>.
+							Neste momento trabalho como freelancer nas áreas de Desenvolvimento Web, Multimédia, E-commerce, SEO e Marketing Digital.
+						</p>
 						<p>
-							Depois de ter trabalhado na <a href="http://www.glintt.com" target="_blank"><b>Glintt, Software Solutions, S.A</b></a> e na <a href="http://www.fastluza.pt" target="_blank">Fastluza</a> como Software e Web Developer respectivamente, tirei um ano para criar e lançar a minha loja online. Durante este tempo também criei e trabalhei em projectos como Freelancer, principalmente em Desenvolvimento Web. Em 2020 mudei-me para os Paises Baixos e trabalhei na empresa <a href="https://www.technologycatalogue.com" target="_blank">TechnologyCatalogue.com</a> até Junho de 2021. Neste momento estou à procura de trabalho como Web Developer.
+							Depois de ter trabalhado na <a href="http://www.glintt.com" target="_blank"><b>Glintt, Software Solutions, S.A</b></a>
+							e na <a href="http://www.fastluza.pt" target="_blank">Fastluza</a> como Software e Web Developer respectivamente,
+							tirei um ano para criar e lançar a minha loja online. Durante este tempo também criei e trabalhei em projectos como Freelancer,
+							principalmente em Desenvolvimento Web. Em 2020 mudei-me para os Paises Baixos e trabalhei na empresa
+							<a href="https://www.technologycatalogue.com" target="_blank">TechnologyCatalogue.com</a> 
+							até Junho de 2021. Neste momento estou à procura de trabalho como Web Developer.
 						</p>
 						<br><br>
 						<h6>Considero-me:</h6>
@@ -214,7 +191,8 @@
 								<div class="details pull-left">
 									<h6>Solucionador de Problemas & Trabalhador em equipa</h6>
 									<p>
-										Gosto de desconstruir as minhas tarefas em objectivos mais pequenos que são mais facilmente alcançáveis. Considero-me um bom trabalhador em equipa pois gosto de contribuir para um ambiente mais produtivo.
+										Gosto de desconstruir as minhas tarefas em objectivos mais pequenos que são mais facilmente alcançáveis.
+										Considero-me um bom trabalhador em equipa pois gosto de contribuir para um ambiente mais produtivo.
 									</p>
 								</div>
 							</li>
@@ -225,7 +203,9 @@
 								<div class="details pull-left">
 									<h6>Aprendizagem Contínua & Orientado para a Excelência</h6>
 									<p>
-										Considero-me uma pessoa que aprende continuamente não só na programação mas em geral, assim tento aprender coisas novas todos os dias. Também me considero uma pessoa orientada para a excelência pois tenho orgulho nos projectos que desenvolvo e por essa razão tento potencializá-los da melhor forma.
+										Considero-me uma pessoa que aprende continuamente não só na programação mas em geral, assim tento aprender coisas novas
+										todos os dias. Também me considero uma pessoa orientada para a excelência pois tenho orgulho nos projectos que desenvolvo
+										e por essa razão tento potencializá-los da melhor forma.
 									</p>
 								</div>
 							</li>
@@ -244,10 +224,19 @@
 						<div class="colored-line pull-left">
 						</div>
 						<p>
-							Comecei cedo o interesse pelos computadores e pelas suas capacidades. Como resultado do meu interesse, estudei multimédia no secundário e tirei uma licenciatura no ISMAI, tudo para atingir o meu objectivo: Tornar-me num Web Developer.
+							Comecei cedo o interesse pelos computadores e pelas suas capacidades. Como resultado do meu interesse,
+							estudei multimédia no secundário e tirei uma licenciatura no ISMAI, tudo para atingir o meu objectivo: Tornar-me num Web Developer.
 						</p>
 						<p>
-							Trabalhei na <a href="http://www.fastluza.pt" target="_blank">Fastluza</a> durante 9 meses e depois 1 ano e 3 meses na <a href="http://www.glintt.com" target="_blank">Glintt</a>. Durante o meu tempo na Fastluza trabalhei com múltiplos websites em WordPress e websites desenvolvidos com HTML, CSS, PHP e JS. Trabalhar na Glintt foi um bocado diferente, fui atribuído para trabalhar com PL/SQL - Oracle Forms. Isto deu-me a oportunidade de trabalhar com projectos estáveis e maduros com grande responsabilidade e escrutínio. Fez com que crescesse como developer e como colaborador. Na <a href="https://www.technologycatalogue.com" target="_blank">TechnologyCatalogue.com</a> trabalhei com Drupal, o que me deu a oportunidade para consolidar as minhas capacidades em PHP bem como melhorar as minhas capacidades em Sass e Twig.
+							Trabalhei na <a href="http://www.fastluza.pt" target="_blank">Fastluza</a>
+							durante 9 meses e depois 1 ano e 3 meses na <a href="http://www.glintt.com" target="_blank">Glintt</a>.
+							Durante o meu tempo na Fastluza trabalhei com múltiplos websites em WordPress e websites desenvolvidos com HTML, CSS, PHP e JS.
+							Trabalhar na Glintt foi um bocado diferente, fui atribuído para trabalhar com PL/SQL - Oracle Forms.
+							Isto deu-me a oportunidade de trabalhar com projectos estáveis e maduros com grande responsabilidade e escrutínio.
+							Fez com que crescesse como developer e como colaborador.
+							Na <a href="https://www.technologycatalogue.com" target="_blank">TechnologyCatalogue.com</a>
+							trabalhei com Drupal, o que me deu a oportunidade para consolidar as minhas capacidades em PHP
+							bem como melhorar as minhas capacidades em Sass e Twig.
 						</p>
 						<br>
 						<input type="button" value="Curriculum vitae" class="btn standard-button" data-style="expand-left" onClick="window.open('CV/CV-LuisSerpaPinto.pdf');">
@@ -261,7 +250,12 @@
 								<div class="details pull-left">
 									<h6>Inglês</h6>
 									<p>
-										Sou bilingue, sei falar e escrever tanto Inglês como Português como língua materna. Durante 10 anos estudei numa escola internacional, <a href="https://www.clip.pt/" target="_blank">CLIP</a>, onde as aulas eram todas leccionadas em Inglês. Também completei um curso de Inglês no <a href="https://www.britishcouncil.pt/" target="_blank">British Council</a>, e depois estive em Cambridge por 3 meses a tirar outro curso de Inglês. Estes cursos deram-me uma ferramenta importante para o mundo actual.
+										Sou bilingue, sei falar e escrever tanto Inglês como Português como língua materna.
+										Durante 10 anos estudei numa escola internacional, <a href="https://www.clip.pt/" target="_blank">CLIP</a>,
+										onde as aulas eram todas leccionadas em Inglês. Também completei um curso de Inglês no
+										<a href="https://www.britishcouncil.pt/" target="_blank">British Council</a>,
+										e depois estive em Cambridge por 3 meses a tirar outro curso de Inglês.
+										Estes cursos deram-me uma ferramenta importante para o mundo actual.
 									</p>
 								</div>
 							</li>
@@ -272,7 +266,8 @@
 								<div class="details pull-left">
 									<h6>Aventureiro & Pró-activo</h6>
 									<p>
-										Gosto de viajar, visitar e explorar. Gosto também de ajudar, optimizar e criar. Isso faz com que seja um indivíduo activo que contribui para um ambiente mais produtivo e sustentável.
+										Gosto de viajar, visitar e explorar. Gosto também de ajudar, optimizar e criar.
+										Isso faz com que seja um indivíduo activo que contribui para um ambiente mais produtivo e sustentável.
 									</p>
 								</div>
 							</li>
@@ -371,7 +366,10 @@
 								<div class="progress-html" id="container"></div>
 							</div>
 							<h4>HTML & CSS</h4>
-							<p>Com todos os meus projectos a envolverem HTML e CSS estou bastante confortável a usar ambas as linguagens. No entanto, há sempre espaço para melhorar!</p>
+							<p>
+								Com todos os meus projectos a envolverem HTML e CSS estou bastante confortável a usar ambas as linguagens.
+								No entanto, há sempre espaço para melhorar!
+							</p>
 						</div>
 					</div>
 					<div class="col-md-4">
@@ -380,7 +378,11 @@
 								<div class="progress-php" id="containerPhp"></div>
 							</div>
 							<h4>PHP (Drupal, Laravel & WP)</h4>
-							<p>Tendo feito alguns projectos em PHP com Drupal e Laravel sei programar em PHP. Também utilizei o WordPress e considero as minhas capacidades boas. Embora haja alguma aprendizagem a fazer, como se costuma dizer "Practise makes perfect".</p>
+							<p>
+								Tendo feito alguns projectos em PHP com Drupal e Laravel sei programar em PHP.
+								Também utilizei o WordPress e considero as minhas capacidades boas.
+								Embora haja alguma aprendizagem a fazer, como se costuma dizer "Practise makes perfect".
+							</p>
 						</div>
 					</div>
 					<div class="col-md-4">
@@ -389,7 +391,10 @@
 								<div class="progress-js" id="containerJs"></div>
 							</div>
 							<h4>JS, Node & React</h4>
-							<p>A maior parte dos meus projectos usa JavaScript ou Jquery em algumas funcionalidades. Recentemente fiz um curso da Udemy em MERN Stack e estou a desenvolver uma app com essas tecnologias.</p>
+							<p>
+								A maior parte dos meus projectos usa JavaScript ou Jquery em algumas funcionalidades.
+								Recentemente fiz um curso da Udemy em MERN Stack e estou a desenvolver uma app com essas tecnologias.
+							</p>
 						</div>
 					</div>
 				</div>
@@ -400,7 +405,10 @@
 								<div class="progress-Laravel" id="containerLaravel"></div>
 							</div>
 							<h4>PL/SQL - Oracle Forms</h4>
-							<p>Tendo trabalhado com PL/SQL na Glintt estou confortável a trabalhar com Oracle Forms. Estou habituado a lidar com projectos grandes com milhões de registos na base de dados, devido à natureza dos softwares da empresa.</p>
+							<p>
+								Tendo trabalhado com PL/SQL na Glintt estou confortável a trabalhar com Oracle Forms.
+								Estou habituado a lidar com projectos grandes com milhões de registos na base de dados, devido à natureza dos softwares da empresa.
+							</p>
 						</div>
 					</div>
 					<div class="col-md-4">
@@ -409,7 +417,10 @@
 								<div class="progress-Wp" id="containerWP"></div>
 							</div>
 							<h4>Git</h4>
-							<p>Trabalho com Git (Github & Gitlab) e sinto-me confortável com continuous integration e continuous deployment. A minha página pessoal no <a href="https://github.com/lulasp" target="_blank">Github</a>.</p>
+							<p>
+								Trabalho com Git (Github & Gitlab) e sinto-me confortável com continuous integration e continuous deployment.
+								A minha página pessoal no <a href="https://github.com/lulasp" target="_blank">Github</a>.
+							</p>
 						</div>
 					</div>
 					<div class="col-md-4">
@@ -477,8 +488,6 @@
 			</ul>
 		</div>
 	</footer>
-
-
 	<script src="js/jquery.min.js"></script>
 	<script>
 		// makes sure the whole site is loaded
