@@ -161,18 +161,17 @@
 						<div class="colored-line pull-left">
 						</div>
 						<p>
-							Hello, my name is Luís Serpa Pinto and I was born in Porto, Portugal. I lived a couple of years in the Netherlands working
-							as a Web Developer in Delft. Now I moved back to Portugal and I'm searching for a Web Developer position.
-							I always had an interest in technology and it's possibilities.
-							I graduated in Portugal with a degree in Multimedia Communication Technologies from
-							<a href="https://www.ismai.pt" target="_blank">Instituto Universitário da Maia (ISMAI)</a>.
+							Hello, my name is Luís Serpa Pinto and I was born and lived most my life in Porto, Portugal. Recently, I moved during a couple of years to the Netherlands working
+							as a Web Developer in Delft. Now I'm back in Portugal.
+							I graduated with a degree in Multimedia Communication Technologies from
+							<a href="https://www.ismai.pt" target="_blank">Instituto Universitário da Maia (ISMAI) in Portugal.</a>.
 						</p>
 						<p>
 							After having worked at <a href="http://www.glintt.com" target="_blank"><b>Glintt, Software Solutions, S.A</b></a>
 							and <a href="http://www.fastluza.pt" target="_blank">Fastluza</a>
-							as a Software and Web Developer respectively, I took one year off to work on personal projects and I also worked as a Freelancer,
+							as a Software and Web Developer respectively, I took one year off to work on personal projects and as a Freelancer,
 							mainly in Web Development. In January 2020 I moved to the Netherlands and worked at
-							<a href="https://www.technologycatalogue.com" target="_blank">TechnologyCatalogue.com</a>
+							<a href="https://www.technologycatalogue.com" target="_blank"><b>TechnologyCatalogue.com</b></a>
 							up until June 2021. Currently I’m looking for a position as a Web Developer.
 						</p>
 						<br><br>
@@ -186,7 +185,8 @@
 									<h6>Problem Solver & Team Worker</h6>
 									<p>
 										I like to deconstruct my tasks into smaller objectives which can be achieved easier.
-										I consider myself a good team worker as I like to contribute to a productive environment.
+										I consider myself a good team worker as I like to contribute to a productive environment and I think of myself
+										to have good social skills.
 									</p>
 								</div>
 							</li>
@@ -226,8 +226,8 @@
 							websites and websites that were developed using HTML, CSS, PHP, and JavaScript. Working at Glintt was a bit different,
 							I worked with PL/SQL - Oracle Forms. This allowed me to dive in very stable and mature projects with high responsibility and a huge
 							focus on quality & assurance. It made me grow as a developer and as an employee. At TechnologyCatalogue.com I worked with Drupal,
-							an open-source CMS in PHP. We also used jQuery, SASS and TWIG. At TechnologyCatalogue I was responsible for a big part of a platform wide
-							revamp and implementation of features such as carousels, voting systems, search filters and other functionalities.
+							an open-source CMS in PHP. We also used jQuery, SASS and TWIG. At TechnologyCatalogue.com, I was responsible
+							for a big part of a platform wide revamp and implementation of features such as carousels, voting systems, search filters and other functionalities.
 							I also frequently took lead in meetings both internally and externally.
 							All my past work experience has been in Agile environemnts, either with scrum or Kanban methodologies so I'm familiar with both.
 						</p>
@@ -259,7 +259,7 @@
 									<h6>Adventurous & Pro-active</h6>
 									<p>
 										I like to travel, visit and explore. I also like to help, optimize and create. This makes me an active individual who
-										contributes to a more productive and sustainable work environment.
+										contributes to a more productive work environment.
 									</p>
 								</div>
 							</li>
@@ -373,8 +373,7 @@
 							<h4>PHP (Drupal, Laravel & WP)</h4>
 							<p>
 								Having done some projects using PHP with Drupal and Laravel I can write PHP code.
-								I also worked with WordPress and consider my skills to be good.
-								Although there is always learning to do, as the saying goes "Practise makes perfect".
+								I also worked with WordPress and consider my skills to be good, even if there is always learning to do. As the saying goes "Practise makes perfect".
 							</p>
 						</div>
 					</div>
@@ -386,7 +385,7 @@
 							<h4>JS, Node & React</h4>
 							<p>
 								Most of my projects use JavaScript or Jquery in some of their features.
-								I recently did a MERN Stack course by Udemy and I'm developing a personal App with these technologies.
+								I recently did a MERN Stack course by Udemy and I'm developing a personal app with these technologies.
 							</p>
 						</div>
 					</div>
@@ -422,7 +421,7 @@
 								<div class="progress-SEO" id="containerShopify"></div>
 							</div>
 							<h4>Agile & Scrum</h4>
-							<p>All companies I worked with had an Agile environment, I'm used to the Scrum framework and all it entails.</p>
+							<p>All companies I worked with had Agile environments, I'm used to the scrum and Kanban methodologies and all it entails.</p>
 						</div>
 					</div>
 				</div>
