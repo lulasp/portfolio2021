@@ -152,18 +152,18 @@
 						<div class="colored-line pull-left">
 						</div>
 						<p>
-							Nascido no Porto, sempre tive interesse nas tecnologias e nas suas possibilidades.
+							O meu nome é Luís Serpa Pinto e nasci e vivi maior parte da minha vida no Porto. Recentemente vivi durante
+							durante uns anos na Holanda, onde trabalhei como web developer em Delft. Agora estou de volta a Portugal.
 							Tenho a licenciatura de Tecnologias de Comunicação Multimédia que obtive no
 							<a href="https://www.ismai.pt" target="_blank">Instituto Universitário da Maia (ISMAI)</a>.
-							Neste momento trabalho como freelancer nas áreas de Desenvolvimento Web, Multimédia, E-commerce, SEO e Marketing Digital.
 						</p>
 						<p>
-							Depois de ter trabalhado na <a href="http://www.glintt.com" target="_blank"><b>Glintt, Software Solutions, S.A</b></a>
-							e na <a href="http://www.fastluza.pt" target="_blank">Fastluza</a> como Software e Web Developer respectivamente,
-							tirei um ano para criar e lançar a minha loja online. Durante este tempo também criei e trabalhei em projectos como Freelancer,
-							principalmente em Desenvolvimento Web. Em 2020 mudei-me para os Paises Baixos e trabalhei na empresa
+							Nos últimos anos trabalhei na <a href="http://www.glintt.com" target="_blank"><b>Glintt, Software Solutions, S.A</b></a>
+							e na <a href="http://www.fastluza.pt" target="_blank">Fastluza</a> como Software e Web Developer respectivamente.
+							Durante este tempo também criei e trabalhei em projectos como freelancer,
+							essencialmente em web development. Em Janeiro de 2020 mudei-me para a Holanda e trabalhei na empresa
 							<a href="https://www.technologycatalogue.com" target="_blank">TechnologyCatalogue.com</a> 
-							até Junho de 2021. Neste momento estou à procura de trabalho como Web Developer.
+							até Junho de 2021. Neste momento estou à procura de trabalho como web developer.
 						</p>
 						<br><br>
 						<h6>Considero-me:</h6>
@@ -176,7 +176,8 @@
 									<h6>Solucionador de Problemas & Trabalhador em equipa</h6>
 									<p>
 										Gosto de desconstruir as minhas tarefas em objectivos mais pequenos que são mais facilmente alcançáveis.
-										Considero-me um bom trabalhador em equipa pois gosto de contribuir para um ambiente mais produtivo.
+										Considero-me um bom trabalhador em equipa pois gosto de contribuir para um ambiente mais produtivo e considero
+										ter boas soft skills.
 									</p>
 								</div>
 							</li>
@@ -209,7 +210,7 @@
 						</div>
 						<p>
 							Comecei cedo o interesse pelos computadores e pelas suas capacidades. Como resultado do meu interesse,
-							estudei multimédia no secundário e tirei uma licenciatura no ISMAI, tudo para atingir o meu objectivo: Tornar-me num Web Developer.
+							estudei multimédia no secundário e tirei uma licenciatura no ISMAI, tudo para atingir o meu objectivo: Tornar-me num web developer.
 						</p>
 						<p>
 							Trabalhei na <a href="http://www.fastluza.pt" target="_blank">Fastluza</a>
@@ -219,8 +220,11 @@
 							Isto deu-me a oportunidade de trabalhar com projectos estáveis e maduros com grande responsabilidade e escrutínio.
 							Fez com que crescesse como developer e como colaborador.
 							Na <a href="https://www.technologycatalogue.com" target="_blank">TechnologyCatalogue.com</a>
-							trabalhei com Drupal, o que me deu a oportunidade para consolidar as minhas capacidades em PHP
-							bem como melhorar as minhas capacidades em Sass e Twig.
+							trabalhei com Drupal, um CMS open-source em PHP. Usávamos também jQuery, SASS e TWIG. Na TechnologyCatalogue.com eu
+							fui responsável por uma grande parte de um revamp da plataforma e implementei funcionalidades como carrosséis, sistemas
+							de voto, filtros de pesquisa, entre outras. Frequentemente, também liderei reuniões tanto internamente como externamente.
+							Todas as minhas experiências de trabalho foram em ambientes Agile, tanto em scrum como Kanban, o que faz de mim familiarizado
+							com ambas as metodologias.
 						</p>
 						<br>
 						<input type="button" value="Curriculum vitae" class="btn standard-button" data-style="expand-left" onClick="window.open('CV/CV-LuisSerpaPinto.pdf');">

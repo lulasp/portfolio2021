@@ -143,18 +143,18 @@
 						<div class="colored-line pull-left">
 						</div>
 						<p>
-							Hello, my name is Luís Serpa Pinto and I was born and lived most my life in Porto, Portugal. Recently, I moved during a couple of years to the Netherlands working
-							as a Web Developer in Delft. Now I'm back in Portugal.
+							Hello, my name is Luís Serpa Pinto and I was born and lived most my life in Porto, Portugal. Recently, I moved
+							during a couple of years to the Netherlands where I worked as a web developer in Delft. Now I'm back in Portugal.
 							I graduated with a degree in Multimedia Communication Technologies from
-							<a href="https://www.ismai.pt" target="_blank">Instituto Universitário da Maia (ISMAI) in Portugal.</a>.
+							<a href="https://www.ismai.pt" target="_blank">Instituto Universitário da Maia (ISMAI)</a> in Portugal.
 						</p>
 						<p>
-							After having worked at <a href="http://www.glintt.com" target="_blank"><b>Glintt, Software Solutions, S.A</b></a>
+							During the past years I worked at <a href="http://www.glintt.com" target="_blank"><b>Glintt, Software Solutions, S.A</b></a>
 							and <a href="http://www.fastluza.pt" target="_blank">Fastluza</a>
-							as a Software and Web Developer respectively, I took one year off to work on personal projects and as a Freelancer,
-							mainly in Web Development. In January 2020 I moved to the Netherlands and worked at
-							<a href="https://www.technologycatalogue.com" target="_blank"><b>TechnologyCatalogue.com</b></a>
-							up until June 2021. Currently I’m looking for a position as a Web Developer.
+							as a Software and Web Developer respectively. I have also worked as a freelancer
+							mainly in web development, while working on personal projects. In January 2020 I moved to the Netherlands and
+							worked at <a href="https://www.technologycatalogue.com" target="_blank"><b>TechnologyCatalogue.com</b></a>
+							up until June 2021. Currently I’m looking for a position as a web developer.
 						</p>
 						<br><br>
 						<h6>I consider myself:</h6>
@@ -168,7 +168,7 @@
 									<p>
 										I like to deconstruct my tasks into smaller objectives which can be achieved easier.
 										I consider myself a good team worker as I like to contribute to a productive environment and I think of myself
-										to have good social skills.
+										to have good soft skills.
 									</p>
 								</div>
 							</li>
@@ -201,7 +201,7 @@
 						</div>
 						<p>
 							Since early in my life I developed an interest in computers and their capabilities. As a result of this interest I studied
-							multimedia in high-school and after I got a graduate degree at ISMAI, all this to achieve my goal: Becoming a Web Developer.
+							multimedia in high-school and after I got a graduate degree at ISMAI, all this to achieve my goal: Becoming a web developer.
 						</p>
 						<p>
 							I worked at Fastluza for 9 months and after 1 year and 3 months at Glintt. During my time at Fastluza I worked on multiple WordPress
