@@ -217,12 +217,12 @@
 							durante 9 meses e depois 1 ano e 3 meses na <a href="http://www.glintt.com" target="_blank">Glintt</a>.
 							Durante o meu tempo na Fastluza trabalhei com múltiplos websites em WordPress e websites desenvolvidos com HTML, CSS, PHP e JS.
 							Trabalhar na Glintt foi um bocado diferente, fui atribuído para trabalhar com PL/SQL - Oracle Forms.
-							Isto deu-me a oportunidade de trabalhar com projectos estáveis e maduros com grande responsabilidade e escrutínio.
-							Fez com que crescesse como developer e como colaborador.
+							Isto deu-me a oportunidade de trabalhar com projectos estáveis e maduros com grande responsabilidade e com ênfase
+							em Quality & Assurance. Isso fez com que crescesse como developer e como colaborador.
 							Na <a href="https://www.technologycatalogue.com" target="_blank">TechnologyCatalogue.com</a>
 							trabalhei com Drupal, um CMS open-source em PHP. Usávamos também jQuery, SASS e TWIG. Na TechnologyCatalogue.com eu
-							fui responsável por uma grande parte de um revamp da plataforma e implementei funcionalidades como carrosséis, sistemas
-							de voto, filtros de pesquisa, entre outras. Frequentemente, também liderei reuniões tanto internamente como externamente.
+							fui responsável por uma parte significativa de um revamp da plataforma e implementei funcionalidades como carrosséis, sistemas
+							de voto, filtros de pesquisa, entre outras. Frequentemente também liderei reuniões tanto internamente como externamente.
 							Todas as minhas experiências de trabalho foram em ambientes Agile, tanto em scrum como Kanban, o que faz de mim familiarizado
 							com ambas as metodologias.
 						</p>

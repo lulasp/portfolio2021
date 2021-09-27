@@ -366,8 +366,9 @@
 							</div>
 							<h4>JS, Node & React</h4>
 							<p>
-								Most of my projects use JavaScript or Jquery in some of their features.
-								I recently did a MERN Stack course by Udemy and I'm developing a personal app with these technologies.
+								Most of my projects use JavaScript or jQuery in some of their features.
+								I recently finished a MERN Stack (Mongodb, Express.js, React & Node.js) course by Udemy and I'm
+								using this tech stack to develop a personal app.
 							</p>
 						</div>
 					</div>
@@ -381,7 +382,7 @@
 							<h4>PL/SQL - Oracle Forms</h4>
 							<p>
 								Having worked with PL/SQL at Glintt I feel at ease working with Oracle Forms.
-								I'm used to handling big projects with millions of database records due to the nature of Glintts software.
+								I'm used to handling big projects with millions of database records due to the nature of Glintts' software.
 							</p>
 						</div>
 					</div>
@@ -392,7 +393,7 @@
 							</div>
 							<h4>Git</h4>
 							<p>
-								I work with Git (Github & Gitlab) I feel confident working with continuous integration and continuous deployment.
+								I work with Git (Github & Gitlab) and I feel confident working with continuous integration and continuous deployment.
 								Feel free to check my personal <a href="https://github.com/lulasp" target="_blank">Github page</a>
 							</p>
 						</div>
