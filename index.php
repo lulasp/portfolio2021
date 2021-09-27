@@ -66,6 +66,16 @@
 			var win = window.open(url = 'https://hidden-reaches-97778.herokuapp.com', '_blank');
 			win.focus();
 		}
+
+		function OpenInNewTab5(url) {
+			var win = window.open(url = 'https://glintt.com/', '_blank');
+			win.focus();
+		}
+
+		function OpenInNewTab6(url) {
+			var win = window.open(url = 'https://fastluza.pt', '_blank');
+			win.focus();
+		}
 	</script>
 </head>
 
@@ -286,7 +296,7 @@
 						<div class="gutter-sizer"></div>
 						<div class="item htmlcss php javascript drupal work" data-category="php">
 							<figure class="item-figure">
-								<img src="images/thumbs/portfolio_TC.png" class="img-responsive" alt="img">
+								<img src="images/thumbs/portfolio_TechC.png" class="img-responsive" alt="img">
 								<figcaption class="overlay">
 									<p>Technology Catalogue.com</p>
 									<a onclick="OpenInNewTab()" class="ajax-popup-link"></a>
@@ -317,6 +327,24 @@
 								<figcaption class="overlay">
 									<p>DevConnector - MERN Stack</p>
 									<a onclick="OpenInNewTab4()" class="ajax-popup-link"></a>
+								</figcaption>
+							</figure>
+						</div>
+						<div class="item work" data-category="htmlcss">
+							<figure class="item-figure">
+								<img src="images/thumbs/portfolio_Glintt.png" class="img-responsive" alt="img">
+								<figcaption class="overlay">
+									<p>Glintt</p>
+									<a onclick="OpenInNewTab5()" class="ajax-popup-link"></a>
+								</figcaption>
+							</figure>
+						</div>
+						<div class="item htmlcss javascript php work" data-category="htmlcss">
+							<figure class="item-figure">
+								<img src="images/thumbs/portfolio_fastluza.png" class="img-responsive" alt="img">
+								<figcaption class="overlay">
+									<p>Fastluza</p>
+									<a onclick="OpenInNewTab6()" class="ajax-popup-link"></a>
 								</figcaption>
 							</figure>
 						</div>
