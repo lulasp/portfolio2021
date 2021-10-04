@@ -164,7 +164,7 @@
 							as a Software and Web Developer respectively. I have also worked as a freelancer
 							mainly in web development, while working on personal projects. In January 2020 I moved to the Netherlands and
 							worked at <a href="https://www.technologycatalogue.com" target="_blank"><b>TechnologyCatalogue.com</b></a>
-							up until June 2021. Currently I’m looking for a position as a web developer.
+							up until July 2021. Currently I’m looking for a position as a web developer.
 						</p>
 						<br><br>
 						<h6>I consider myself:</h6>
@@ -214,16 +214,15 @@
 							multimedia in high-school and after I got a graduate degree at ISMAI, all this to achieve my goal: Becoming a web developer.
 						</p>
 						<p>
-							I worked at Fastluza for 9 months and after 1 year and 3 months at Glintt. During my time at Fastluza I worked on multiple WordPress
+							I worked at <a href="http://www.fastluza.pt" target="_blank">Fastluza</a> for 9 months and after 1 year and 3 months at <a href="http://www.glintt.com" target="_blank">Glintt</a>. During my time at Fastluza I worked on multiple WordPress
 							websites and websites that were developed using HTML, CSS, PHP, and JavaScript. Working at Glintt was a bit different,
 							I worked with PL/SQL - Oracle Forms. This allowed me to dive in very stable and mature projects with high responsibility and a huge
-							focus on quality & assurance. It made me grow as a developer and as an employee. At TechnologyCatalogue.com I worked with Drupal,
-							an open-source CMS in PHP. We also used jQuery, SASS and TWIG. At TechnologyCatalogue.com, I was responsible
-							for a big part of a platform wide revamp and implementation of features such as carousels, voting systems, search filters and other functionalities.
-							I also frequently took lead in meetings both internally and externally.
+							focus on quality & assurance. It made me grow as a developer and as an employee. At <a href="https://www.technologycatalogue.com" target="_blank">TechnologyCatalogue.com</a> I worked with Drupal,
+							an open-source CMS in PHP. We also used jQuery, SASS and TWIG. I was responsible for a big part of a platform
+							wide revamp and implementation of features such as carousels, voting systems, search filters and other functionalities.
+							I also frequently took lead in both internal and external meetings.
 							All my past work experience has been in Agile environemnts, either with scrum or Kanban methodologies so I'm familiar with both.
 						</p>
-						<br>
 						<input type="button" value="Curriculum vitae" class="btn standard-button" data-style="expand-left" onClick="window.open('CV/CV-LuisSerpaPinto.pdf');">
 						<p></p>
 						<h6>A little more about me:</h6>
@@ -382,7 +381,7 @@
 							</div>
 							<h4>PHP (Drupal, Laravel & WP)</h4>
 							<p>
-								Having done some projects using PHP with Drupal and Laravel I can write PHP code.
+								Having done some projects using PHP, with Drupal and Laravel I can write PHP code.
 								I also worked with WordPress and consider my skills to be good, even if there is always learning to do. As the saying goes "Practise makes perfect".
 							</p>
 						</div>
@@ -395,7 +394,7 @@
 							<h4>JS, Node & React</h4>
 							<p>
 								Most of my projects use JavaScript or jQuery in some of their features.
-								I recently finished a MERN Stack (Mongodb, Express.js, React & Node.js) course by Udemy and I'm
+								I recently finished a MERN Stack (MongoDB, Express.js, React & Node.js) course by Udemy and I'm
 								using this tech stack to develop a personal app.
 							</p>
 						</div>
@@ -409,8 +408,8 @@
 							</div>
 							<h4>PL/SQL - Oracle Forms</h4>
 							<p>
-								Having worked with PL/SQL at Glintt I feel at ease working with Oracle Forms.
-								I'm used to handling big projects with millions of database records due to the nature of Glintts' software.
+								Having worked with PL/SQL at Glintt I'm used to handling big projects with millions of database
+								records due to the nature of Glintts' software.
 							</p>
 						</div>
 					</div>

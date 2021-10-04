@@ -70,7 +70,7 @@ window.onload = function onLoad() {
   bar2.animate(0.65);  // Number from 0.0 to 1.0
 
 
-  //Laravel
+  //JS
 
   var bar4 = new ProgressBar.Circle(containerJs, {
     color: '#FFEA82',
@@ -106,7 +106,7 @@ window.onload = function onLoad() {
   bar4.animate(0.60);  // Number from 0.0 to 1.0
 
 
-  //JS
+  //PL/SQL
 
   var bar3 = new ProgressBar.Circle(containerLaravel, {
     color: '#FFEA82',
@@ -139,9 +139,9 @@ window.onload = function onLoad() {
   bar3.text.style.fontSize = '2rem';
   bar3.text.style.color = '#efd215';
 
-  bar3.animate(0.70);  // Number from 0.0 to 1.0
+  bar3.animate(0.60);  // Number from 0.0 to 1.0
 
-  //WP
+  //GIT
 
   var bar6 = new ProgressBar.Circle(containerWP, {
     color: '#FFEA82',
@@ -177,7 +177,7 @@ window.onload = function onLoad() {
   bar6.animate(0.70);  // Number from 0.0 to 1.0
 
 
-  //SEO
+  //AGILE
 
   var bar5 = new ProgressBar.Circle(containerShopify, {
     color: '#FFEA82',

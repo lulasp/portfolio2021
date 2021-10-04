@@ -163,7 +163,7 @@
 						</div>
 						<p>
 							O meu nome é Luís Serpa Pinto e nasci e vivi maior parte da minha vida no Porto. Recentemente vivi durante
-							durante uns anos na Holanda, onde trabalhei como web developer em Delft. Agora estou de volta a Portugal.
+							uns anos na Holanda, onde trabalhei como web developer em Delft. Agora estou de volta a Portugal.
 							Tenho a licenciatura de Tecnologias de Comunicação Multimédia que obtive no
 							<a href="https://www.ismai.pt" target="_blank">Instituto Universitário da Maia (ISMAI)</a>.
 						</p>
@@ -172,8 +172,8 @@
 							e na <a href="http://www.fastluza.pt" target="_blank">Fastluza</a> como Software e Web Developer respectivamente.
 							Durante este tempo também criei e trabalhei em projectos como freelancer,
 							essencialmente em web development. Em Janeiro de 2020 mudei-me para a Holanda e trabalhei na empresa
-							<a href="https://www.technologycatalogue.com" target="_blank">TechnologyCatalogue.com</a> 
-							até Junho de 2021. Neste momento estou à procura de trabalho como web developer.
+							<a href="https://www.technologycatalogue.com" target="_blank"><b>TechnologyCatalogue.com</b></a> 
+							até Julho de 2021. Neste momento estou à procura de trabalho como web developer.
 						</p>
 						<br><br>
 						<h6>Considero-me:</h6>
@@ -230,13 +230,12 @@
 							Isto deu-me a oportunidade de trabalhar com projectos estáveis e maduros com grande responsabilidade e com ênfase
 							em Quality & Assurance. Isso fez com que crescesse como developer e como colaborador.
 							Na <a href="https://www.technologycatalogue.com" target="_blank">TechnologyCatalogue.com</a>
-							trabalhei com Drupal, um CMS open-source em PHP. Usávamos também jQuery, SASS e TWIG. Na TechnologyCatalogue.com eu
-							fui responsável por uma parte significativa de um revamp da plataforma e implementei funcionalidades como carrosséis, sistemas
-							de voto, filtros de pesquisa, entre outras. Frequentemente também liderei reuniões tanto internamente como externamente.
+							trabalhei com Drupal, um CMS open-source em PHP. Usávamos também jQuery, SASS e TWIG. Fui responsável por uma parte significativa
+							de um revamp da plataforma e implementei funcionalidades como carrosséis, sistemas de voto, filtros de pesquisa, entre outras.
+							Frequentemente também liderei reuniões tanto internas como externas.
 							Todas as minhas experiências de trabalho foram em ambientes Agile, tanto em scrum como Kanban, o que faz de mim familiarizado
 							com ambas as metodologias.
 						</p>
-						<br>
 						<input type="button" value="Curriculum vitae" class="btn standard-button" data-style="expand-left" onClick="window.open('CV/CV-LuisSerpaPinto.pdf');">
 						<p></p>
 						<h6>Um bocado mais sobre mim:</h6>
@@ -395,7 +394,7 @@
 							</div>
 							<h4>PHP (Drupal, Laravel & WP)</h4>
 							<p>
-								Tendo feito alguns projectos em PHP com Drupal e Laravel sei programar em PHP.
+								Tendo feito vários projectos em PHP com Drupal e Laravel sei programar em PHP.
 								Também utilizei o WordPress e considero as minhas capacidades boas.
 								Embora haja alguma aprendizagem a fazer, como se costuma dizer "Practise makes perfect".
 							</p>
@@ -408,8 +407,9 @@
 							</div>
 							<h4>JS, Node & React</h4>
 							<p>
-								A maior parte dos meus projectos usa JavaScript ou Jquery em algumas funcionalidades.
-								Recentemente fiz um curso da Udemy em MERN Stack e estou a desenvolver uma app com essas tecnologias.
+								A maior parte dos meus projectos usa JavaScript ou jQuery em algumas funcionalidades.
+								Recentemente fiz um curso da Udemy em MERN Stack (MongoDB, Express.js, React & Node.js) e estou a desenvolver
+								uma app para uso pessoal com essas tecnologias.
 							</p>
 						</div>
 					</div>
@@ -422,8 +422,8 @@
 							</div>
 							<h4>PL/SQL - Oracle Forms</h4>
 							<p>
-								Tendo trabalhado com PL/SQL na Glintt estou confortável a trabalhar com Oracle Forms.
-								Estou habituado a lidar com projectos grandes com milhões de registos na base de dados, devido à natureza dos softwares da empresa.
+								Tendo trabalhado com PL/SQL na Glintt, estou habituado a lidar com projectos grandes com milhões
+								de registos na base de dados devido à natureza do software desenvolvido.
 							</p>
 						</div>
 					</div>
